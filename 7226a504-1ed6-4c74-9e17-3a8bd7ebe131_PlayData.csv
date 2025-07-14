@@ -1,0 +1,22 @@
+SerialNumber,e89dd79dc76132dcc1d1bd38ff203b3ba1ed2246
+TotalPlayTime,954.63
+TotalDeathCount,1
+TotalKilledEnemies,99
+TotalClearedBosses,2
+
+SegmentNumber,EquippedModules,PlayTime,Staff_AttackCount,Staff_SpecialAttackCount,Staff_TotalDamage,Staff_Time,Staff_DPS,Shotgun_AttackCount,Shotgun_SpecialAttackCount,Shotgun_TotalDamage,Shotgun_Time,Shotgun_DPS,Hammer_AttackCount,Hammer_SpecialAttackCount,Hammer_TotalDamage,Hammer_Time,Hammer_DPS,Sword_AttackCount,Sword_SpecialAttackCount,Sword_TotalDamage,Sword_Time,Sword_DPS,WeaponSwitches,DamageReceivedByEnemy,DashCount,SlideDashCount,JumpCount,DodgeCount,DeathCount,EnemyPatternHitLogs
+"Hideout_1","",41.45,0,0,0.00,0.53,0.0000,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,"",0.00,2,0,0,0,0,""
+"C1_Boss_2","MaxHPBuff",65.60,23,2,0.00,10.33,0.0000,8,1,80.00,8.50,0.0000,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,"{order:1,from:Staff,to:Shotgun}",0.00,10,0,0,0,0,""
+"C1_Boss_3","MaxHPBuff",44.30,4,0,47.00,2.10,0.0000,12,1,713.95,10.52,0.0000,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,"{order:1,from:Shotgun,to:Staff};{order:2,from:Staff,to:Shotgun};{order:3,from:Shotgun,to:Staff};{order:4,from:Staff,to:Shotgun}",0.00,7,1,3,0,0,""
+"C1_Boss_4","MaxHPBuff",51.10,21,0,250.00,9.40,0.0000,11,1,154.81,7.53,0.0000,2,0,0.00,1.32,0.0000,0,0,0.00,0.00,0.0000,"{order:1,from:Shotgun,to:Hammer};{order:2,from:Hammer,to:Shotgun};{order:3,from:Shotgun,to:Staff};{order:4,from:Staff,to:Shotgun};{order:5,from:Shotgun,to:Staff}",0.00,14,0,4,1,0,""
+"C1_Boss_5","MaxHPBuff",23.25,16,2,254.00,7.87,0.0000,2,1,342.30,2.83,0.0000,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,"{order:1,from:Staff,to:Shotgun}",10.00,7,0,2,0,0,"C1GunnerMobPrefab (5)-RangedAttackHitbox:10"
+"C1_Boss_6","MaxHPBuff",63.12,33,2,445.50,13.25,0.0000,16,1,227.74,10.33,0.0000,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,"{order:1,from:Shotgun,to:Staff};{order:2,from:Staff,to:Shotgun};{order:3,from:Shotgun,to:Staff};{order:4,from:Staff,to:Shotgun};{order:5,from:Shotgun,to:Staff};{order:6,from:Staff,to:Shotgun};{order:7,from:Shotgun,to:Staff};{order:8,from:Staff,to:Shotgun}",10.00,15,0,3,3,0,"C1TonpaMobPrefab (8)-AttackHitbox:10"
+"C1_Boss_7","MaxHPBuff",21.40,0,0,0.00,0.27,0.0000,9,2,517.17,9.98,0.0000,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,"{order:1,from:Shotgun,to:Staff}",0.00,8,0,4,1,0,""
+"C1_Boss_8","MaxHPBuff",167.39,28,2,593.50,11.48,0.0000,14,2,394.87,9.80,0.0000,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff};{order:3,from:Staff,to:Shotgun};{order:4,from:Shotgun,to:Staff};{order:5,from:Staff,to:Shotgun}",0.00,7,0,0,1,0,""
+"Hideout_1","MaxHPBuff",25.38,0,0,0.00,0.00,0.0000,0,0,0.00,1.87,0.0000,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,"",0.00,7,0,0,0,0,""
+"C2_Boss_2","MaxHPBuff,MoreGearIncreaseOnAttack",37.98,20,0,131.00,9.38,0.0000,7,0,60.00,3.67,0.0000,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff}",10.00,13,6,3,3,0,"C2GunnerMobPrefab (1)-RepelAttackHitbox:10"
+"C2_Boss_3","MaxHPBuff,MoreGearIncreaseOnAttack",51.27,17,3,397.00,11.50,0.0000,3,2,324.24,4.48,0.0000,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff}",20.00,17,4,6,1,0,"C2EliteMobPrefab-RushAttackHitBox:10;C2GunnerMobPrefab-RangedAttackHitbox:10"
+"C2_Boss_4","MaxHPBuff,MoreGearIncreaseOnAttack",6.82,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,"",0.00,0,0,1,0,0,""
+"C2_Boss_5","MaxHPBuff,MoreGearIncreaseOnAttack",63.42,7,0,15.00,4.21,0.0000,10,0,120.00,8.73,0.0000,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff}",10.00,12,2,3,1,0,"C2GunnerMobPrefab-RangedAttackHitbox:10"
+"C2_Boss_6","MaxHPBuff,MoreGearIncreaseOnAttack",8.83,5,1,160.00,3.13,0.0000,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,"",0.00,4,2,0,0,0,""
+"C2_Boss_7","MaxHPBuff,MoreGearIncreaseOnAttack",221.77,59,8,784.75,31.18,0.0000,8,1,192.43,5.82,0.0000,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff};{order:3,from:Staff,to:Shotgun};{order:4,from:Shotgun,to:Staff}",50.00,37,4,8,8,1,"C2Boss-Kickshot-Kick:20;FX_Explosion-Hitbox:20;C2Boss-Lineshot:10"
