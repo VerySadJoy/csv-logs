@@ -1,0 +1,21 @@
+SerialNumber,bb64b49c0a1612aad2f1ea2e843a748f3402dd9e
+TotalPlayTime,1028.52
+TotalDeathCount,0
+TotalKilledEnemies,99
+TotalClearedBosses,2
+
+SegmentNumber,EquippedModules,PlayTime,Staff_AttackCount,Staff_SpecialAttackCount,Staff_TotalDamage,Staff_Time,Staff_DPS,Shotgun_AttackCount,Shotgun_SpecialAttackCount,Shotgun_TotalDamage,Shotgun_Time,Shotgun_DPS,Hammer_AttackCount,Hammer_SpecialAttackCount,Hammer_TotalDamage,Hammer_Time,Hammer_DPS,Sword_AttackCount,Sword_SpecialAttackCount,Sword_TotalDamage,Sword_Time,Sword_DPS,WeaponSwitches,DamageReceivedByEnemy,DashCount,SlideDashCount,JumpCount,DodgeCount,DeathCount,EnemyPatternHitLogs
+"Hideout_1","",48.38,0,0,0.00,0.53,0.0000,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,"",0.00,2,0,0,0,0,""
+"C1_Boss_2","ShieldOnEvade,IncreaseGearLevelOnHit,GenerateShieldOnHit,ExtraDash1",72.97,26,1,92.00,12.45,7.3895,2,0,0.00,1.48,0.0000,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff}",0.00,13,0,2,0,0,""
+"C1_Boss_3","ShieldOnEvade,IncreaseGearLevelOnHit,GenerateShieldOnHit,ExtraDash1",45.47,45,1,623.00,17.43,35.7361,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,"",0.00,19,2,2,4,0,""
+"C1_Boss_4","ShieldOnEvade,IncreaseGearLevelOnHit,GenerateShieldOnHit,ExtraDash1",62.03,16,1,188.00,7.02,26.7933,13,0,208.00,9.08,22.8991,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff};{order:3,from:Staff,to:Shotgun};{order:4,from:Shotgun,to:Staff};{order:5,from:Staff,to:Shotgun}",20.00,12,1,8,3,0,"C1TonpaMobPrefab-AttackHitbox:10;C1GunnerMobPrefab (2)-RangedAttackHitbox:10"
+"C1_Boss_5","ShieldOnEvade,IncreaseGearLevelOnHit,GenerateShieldOnHit,ExtraDash1",18.90,8,2,335.00,5.67,59.1181,4,0,120.00,3.10,38.7100,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,"{order:1,from:Shotgun,to:Staff}",0.00,8,0,6,1,0,""
+"C1_Boss_6","ShieldOnEvade,IncreaseGearLevelOnHit,GenerateShieldOnHit,ExtraDash1",61.92,44,1,557.90,17.28,32.2797,11,0,96.00,7.87,12.2034,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff}",10.00,21,2,5,6,0,"C1TonpaMobPrefab (1)-AttackHitbox:10"
+"C1_Boss_7","ShieldOnEvade,IncreaseGearLevelOnHit,GenerateShieldOnHit,ExtraDash1",16.63,7,2,315.00,5.23,60.1914,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,"",0.00,6,0,4,1,0,""
+"C1_Boss_8","ShieldOnEvade,IncreaseGearLevelOnHit,GenerateShieldOnHit,ExtraDash1",260.51,56,5,926.00,24.12,38.3967,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,"",20.00,15,1,0,8,0,"C1Boss-MeleeAttack3Hitbox:10;C1Boss-DashAttackHitbox:10"
+"Hideout_1","ShieldOnEvade,IncreaseGearLevelOnHit,GenerateShieldOnHit,ExtraDash1",53.40,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,"",0.00,0,0,0,0,0,""
+"C2_Boss_2","MaxHPBuff,MoveSpeedBuffOnSpecialAttack,ShieldOnEvade,MoreGearIncreaseOnAttack,MoreGearOnDashSuccess",37.25,32,0,210.00,12.26,17.1265,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,"",0.00,12,6,7,2,0,""
+"C2_Boss_3","MaxHPBuff,MoveSpeedBuffOnSpecialAttack,ShieldOnEvade,MoreGearIncreaseOnAttack,MoreGearOnDashSuccess",55.27,42,6,763.00,20.23,37.7098,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,"",40.00,19,9,4,2,0,"C2GunnerMobPrefab (2)-RangedAttackHitbox:10;C2GunnerMobPrefab-RangedAttackHitbox:20;C2GunnerMobPrefab (1)-RangedAttackHitbox:10"
+"C2_Boss_4","MaxHPBuff,MoveSpeedBuffOnSpecialAttack,ShieldOnEvade,MoreGearIncreaseOnAttack,MoreGearOnDashSuccess",51.18,6,1,64.00,2.87,22.3253,6,0,100.00,4.12,24.2913,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff}",10.00,7,5,2,3,0,"C2EliteMobPrefab-JumpAttackHitBox:10"
+"C2_Boss_5","MaxHPBuff,MoveSpeedBuffOnSpecialAttack,ShieldOnEvade,MoreGearIncreaseOnAttack,MoreGearOnDashSuccess",11.08,15,1,215.00,5.10,42.1571,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,"",0.00,4,2,0,0,0,""
+"C2_Boss_6","MaxHPBuff,MoveSpeedBuffOnSpecialAttack,ShieldOnEvade,MoreGearIncreaseOnAttack,MoreGearOnDashSuccess",170.29,97,1,500.75,36.60,13.6816,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,0,0,0.00,0.00,0.0000,"",0.00,35,24,1,28,0,""
