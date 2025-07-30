@@ -1,0 +1,14 @@
+SerialNumber,7e11c03c356fcfdc3925ff382bb91308d975628c
+TotalPlayTime,583.24
+TotalDeathCount,0
+TotalKilledEnemies,67
+TotalClearedBosses,1
+
+SegmentNumber,EquippedModules,PlayTime,Staff_AttackCount,Staff_SpecialAttackCount,Staff_TotalDamage,Staff_Time,Staff_DPS,Shotgun_AttackCount,Shotgun_SpecialAttackCount,Shotgun_TotalDamage,Shotgun_Time,Shotgun_DPS,Hammer_AttackCount,Hammer_SpecialAttackCount,Hammer_TotalDamage,Hammer_Time,Hammer_DPS,Sword_AttackCount,Sword_SpecialAttackCount,Sword_TotalDamage,Sword_Time,Sword_DPS,WeaponSwitches,DamageReceivedByEnemy,DashCount,SlideDashCount,JumpCount,DodgeCount,DeathCount,EnemyPatternHitLogs
+"C1_Boss_1","",62.40,4,1,0.00,3.83,0.0000,8,0,90.00,3.00,30.0000,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff};{order:3,from:Staff,to:Shotgun};{order:4,from:Shotgun,to:Staff}",10.00,5,0,1,0,0,"C1TonpaMobPrefab A-AttackHitbox:10"
+"C1_Boss_2","",49.27,31,2,582.00,16.45,35.3799,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",30.00,15,2,2,0,0,"C1GrenadierExplosionPrefab(Clone)-C1GrenadierExplosionPrefab(Clone):10;C1GunnerMobPrefab (2)-RepelAttackHitbox:10;C1TonpaMobPrefab (9)-AttackHitbox:10"
+"C1_Boss_3","",47.80,13,2,396.00,7.77,50.9876,6,0,6.00,2.35,2.5532,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff}",0.00,8,0,2,1,0,""
+"C1_Boss_4","",24.37,23,1,426.00,12.22,34.8704,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",0.00,11,0,4,1,0,""
+"C1_Boss_5","",60.65,28,2,567.00,14.37,39.4664,10,1,165.50,3.55,46.6209,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff};{order:3,from:Staff,to:Shotgun};{order:4,from:Shotgun,to:Staff}",10.00,16,0,7,0,0,"C1GrenadierExplosionPrefab(Clone)-C1GrenadierExplosionPrefab(Clone):10"
+"C1_Boss_6","",16.27,6,2,320.00,5.82,55.0148,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",10.00,8,0,2,0,0,"C1GunnerMobPrefab (1)-RangedAttackHitbox:10"
+"C1_Boss_7","",141.58,46,6,877.50,20.92,41.9523,5,0,67.50,2.00,33.7495,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff}",10.00,11,0,1,4,0,"C1Boss-DashAttackHitbox:10"
