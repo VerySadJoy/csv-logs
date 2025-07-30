@@ -1,0 +1,14 @@
+SerialNumber,0e1e954d4d61c815d2e61758366e4a54c800a9f3
+TotalPlayTime,565.80
+TotalDeathCount,0
+TotalKilledEnemies,67
+TotalClearedBosses,1
+
+SegmentNumber,EquippedModules,PlayTime,Staff_AttackCount,Staff_SpecialAttackCount,Staff_TotalDamage,Staff_Time,Staff_DPS,Shotgun_AttackCount,Shotgun_SpecialAttackCount,Shotgun_TotalDamage,Shotgun_Time,Shotgun_DPS,Hammer_AttackCount,Hammer_SpecialAttackCount,Hammer_TotalDamage,Hammer_Time,Hammer_DPS,Sword_AttackCount,Sword_SpecialAttackCount,Sword_TotalDamage,Sword_Time,Sword_DPS,WeaponSwitches,DamageReceivedByEnemy,DashCount,SlideDashCount,JumpCount,DodgeCount,DeathCount,EnemyPatternHitLogs
+"C1_Boss_1","ExtraDash1,ExtraDash2,ShieldOnEvade",67.48,9,1,94.00,6.90,13.6232,5,0,0.00,1.93,0.0000,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff}",0.00,8,0,1,0,0,""
+"C1_Boss_2","ExtraDash1,ExtraDash2,ShieldOnEvade",54.18,20,1,397.00,10.45,37.9905,10,1,221.12,7.22,30.6407,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff}",0.00,13,1,0,4,0,""
+"C1_Boss_3","ExtraDash1,ExtraDash2,ShieldOnEvade",42.84,22,1,384.00,9.23,41.5882,5,0,6.00,2.38,2.5175,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff}",10.00,6,0,1,0,0,"C1GunnerMobPrefab (4)-RangedAttackHitbox:10"
+"C1_Boss_4","ExtraDash1,ExtraDash2,ShieldOnEvade",20.50,13,2,376.00,7.70,48.8319,4,0,75.00,2.15,34.8843,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff}",0.00,7,0,1,0,0,""
+"C1_Boss_5","ExtraDash1,ExtraDash2,ShieldOnEvade",56.20,22,2,423.40,10.27,41.2403,13,1,247.95,6.70,37.0081,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff};{order:3,from:Staff,to:Shotgun};{order:4,from:Shotgun,to:Staff};{order:5,from:Staff,to:Shotgun};{order:6,from:Shotgun,to:Staff}",10.00,13,2,1,2,0,"C1GunnerMobPrefab-RangedAttackHitbox:10"
+"C1_Boss_6","ExtraDash1,ExtraDash2,ShieldOnEvade",15.26,5,2,324.00,5.17,62.7087,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",0.00,7,2,1,0,0,""
+"C1_Boss_7","ExtraDash1,ExtraDash2,ShieldOnEvade",140.61,22,5,542.00,11.73,46.1934,18,1,376.43,12.07,31.1959,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff};{order:3,from:Staff,to:Shotgun};{order:4,from:Shotgun,to:Staff}",10.00,11,3,0,2,0,"C1Boss-MeleeAttack3Hitbox:10"
