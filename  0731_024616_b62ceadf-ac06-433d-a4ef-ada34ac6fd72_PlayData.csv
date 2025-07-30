@@ -1,0 +1,8 @@
+SerialNumber,be7c2dedf74998e526268239d039891e3df48ff1
+TotalPlayTime,5.46
+TotalDeathCount,0
+TotalKilledEnemies,0
+TotalClearedBosses,0
+
+SegmentNumber,EquippedModules,PlayTime,Staff_AttackCount,Staff_SpecialAttackCount,Staff_TotalDamage,Staff_Time,Staff_DPS,Shotgun_AttackCount,Shotgun_SpecialAttackCount,Shotgun_TotalDamage,Shotgun_Time,Shotgun_DPS,Hammer_AttackCount,Hammer_SpecialAttackCount,Hammer_TotalDamage,Hammer_Time,Hammer_DPS,Sword_AttackCount,Sword_SpecialAttackCount,Sword_TotalDamage,Sword_Time,Sword_DPS,WeaponSwitches,DamageReceivedByEnemy,DashCount,SlideDashCount,JumpCount,DodgeCount,DeathCount,EnemyPatternHitLogs
+"C1_Boss_1","",5.46,1,0,0.00,0.60,0.0000,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",0.00,0,0,0,0,0,""
