@@ -1,0 +1,12 @@
+SerialNumber,ECDF1CDE-3FF2-5F21-BAF1-9543126C3BB0
+TotalPlayTime,481.46
+TotalDeathCount,1
+TotalKilledEnemies,29
+TotalClearedBosses,1
+
+SegmentNumber,EquippedModules,PlayTime,Staff_AttackCount,Staff_SpecialAttackCount,Staff_TotalDamage,Staff_Time,Staff_DPS,Shotgun_AttackCount,Shotgun_SpecialAttackCount,Shotgun_TotalDamage,Shotgun_Time,Shotgun_DPS,Hammer_AttackCount,Hammer_SpecialAttackCount,Hammer_TotalDamage,Hammer_Time,Hammer_DPS,Sword_AttackCount,Sword_SpecialAttackCount,Sword_TotalDamage,Sword_Time,Sword_DPS,WeaponSwitches,DamageReceivedByEnemy,DashCount,SlideDashCount,JumpCount,DodgeCount,DeathCount,EnemyPatternHitLogs
+"C2_Boss_1","",39.16,25,0,174.00,14.34,12.1316,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",0.00,13,5,8,1,0,""
+"C2_Boss_2","",70.43,53,4,730.00,31.27,23.3476,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",20.00,27,11,9,5,0,"C2ShieldMobPrefab-ShieldAttackHitbox:10;C2GunnerMobPrefab-RangedAttackHitbox:10"
+"C2_Boss_3","",62.76,5,1,207.00,6.67,31.0500,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",0.00,14,0,14,0,0,""
+"C2_Boss_4","",10.12,8,1,217.00,4.93,43.9865,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",0.00,3,2,1,0,0,""
+"C2_Boss_5","",292.83,119,9,918.50,65.00,14.1307,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",70.00,56,5,7,16,1,"C2Boss-Drillshot-Gun1:20;C2Boss-Drillshot-Swing:20;C2Boss-Kickshot-Kick:30"
