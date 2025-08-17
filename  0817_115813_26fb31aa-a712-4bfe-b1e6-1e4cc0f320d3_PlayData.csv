@@ -1,0 +1,14 @@
+SerialNumber,e1d537ccd0f12fa76df4db73a8904a921776f095
+TotalPlayTime,799.97
+TotalDeathCount,0
+TotalKilledEnemies,69
+TotalClearedBosses,1
+
+SegmentNumber,EquippedModules,PlayTime,Staff_AttackCount,Staff_SpecialAttackCount,Staff_TotalDamage,Staff_Time,Staff_DPS,Shotgun_AttackCount,Shotgun_SpecialAttackCount,Shotgun_TotalDamage,Shotgun_Time,Shotgun_DPS,Hammer_AttackCount,Hammer_SpecialAttackCount,Hammer_TotalDamage,Hammer_Time,Hammer_DPS,Sword_AttackCount,Sword_SpecialAttackCount,Sword_TotalDamage,Sword_Time,Sword_DPS,WeaponSwitches,DamageReceivedByEnemy,DashCount,SlideDashCount,JumpCount,DodgeCount,DeathCount,EnemyPatternHitLogs
+"C1_Boss_1","ExtraDash1,ShieldOnEvade,ReviveOnce",93.25,15,1,84.00,7.47,11.2499,11,1,0.00,10.77,0.0000,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff};{order:3,from:Staff,to:Shotgun};{order:4,from:Shotgun,to:Staff}",10.00,2,0,15,0,0,"C1TonpaMobPrefab A-AttackHitbox:10"
+"C1_Boss_2","ExtraDash1,ShieldOnEvade,ReviveOnce",78.15,27,0,339.00,12.27,27.6357,15,1,254.38,17.25,14.7464,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun}",10.00,12,5,2,2,0,"C1TonpaMobPrefab (1)-AttackHitbox:10"
+"C1_Boss_3","ExtraDash1,ShieldOnEvade,ReviveOnce",78.82,28,1,270.00,13.13,20.5583,16,0,51.00,10.22,4.9919,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Shotgun,to:Staff};{order:2,from:Staff,to:Shotgun};{order:3,from:Shotgun,to:Staff}",30.00,11,0,5,0,0,"C1SandMecha-MeleeHitbox:30"
+"C1_Boss_4","ExtraDash1,ShieldOnEvade,ReviveOnce",40.38,34,0,463.00,14.57,31.7848,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",20.00,8,0,9,2,0,"FallDamageArea-:20"
+"C1_Boss_5","ExtraDash1,ShieldOnEvade,ReviveOnce",70.77,40,1,451.20,17.05,26.4635,11,1,108.94,9.23,11.7983,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff}",50.00,14,2,12,1,0,"C1TonpaMobPrefab (2)-AttackHitbox:10;C1SandMecha (1)-MeleeHitbox:20;C1SandMecha (1)-DashAttackHitbox:10;C1SandMecha-MeleeHitbox:10"
+"C1_Boss_6","ExtraDash1,ShieldOnEvade,ReviveOnce",25.48,29,0,318.00,11.17,28.4776,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",10.00,9,0,9,2,0,"C1GunnerMobPrefab (1)-RangedAttackHitbox:10"
+"C1_Boss_7","ExtraDash1,ShieldOnEvade,ReviveOnce",194.84,37,8,765.70,22.67,33.7809,35,2,74.94,30.30,2.4732,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff};{order:3,from:Staff,to:Shotgun};{order:4,from:Shotgun,to:Staff};{order:5,from:Staff,to:Shotgun};{order:6,from:Shotgun,to:Staff}",10.00,26,3,0,11,0,"C1Boss-CounterAttackHitbox:10"
