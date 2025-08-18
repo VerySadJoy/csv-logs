@@ -1,0 +1,10 @@
+SerialNumber,011369bd926aa70aaf3f99da1272314c1787f193
+TotalPlayTime,510.58
+TotalDeathCount,1
+TotalKilledEnemies,29
+TotalClearedBosses,0
+
+SegmentNumber,EquippedModules,PlayTime,Staff_AttackCount,Staff_SpecialAttackCount,Staff_TotalDamage,Staff_Time,Staff_DPS,Shotgun_AttackCount,Shotgun_SpecialAttackCount,Shotgun_TotalDamage,Shotgun_Time,Shotgun_DPS,Hammer_AttackCount,Hammer_SpecialAttackCount,Hammer_TotalDamage,Hammer_Time,Hammer_DPS,Sword_AttackCount,Sword_SpecialAttackCount,Sword_TotalDamage,Sword_Time,Sword_DPS,WeaponSwitches,DamageReceivedByEnemy,DashCount,SlideDashCount,JumpCount,DodgeCount,DeathCount,EnemyPatternHitLogs
+"C1_Boss_1","ShieldOnEvade,ReviveOnce,MaxHPBuff,MoreGearIncreaseOnAttack",81.80,28,3,84.00,14.63,5.7403,5,1,0.00,3.88,0.0000,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff};{order:3,from:Staff,to:Shotgun};{order:4,from:Shotgun,to:Staff}",10.00,1,0,4,0,0,"C1TonpaMobPrefab B-AttackHitbox:10"
+"C1_Boss_2","ShieldOnEvade,ReviveOnce,MaxHPBuff,MoreGearIncreaseOnAttack",143.30,46,2,540.00,20.13,26.8213,4,1,60.00,2.95,20.3389,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff}",60.00,7,1,5,1,0,"C1TonpaMobPrefab-AttackHitbox:30;C1GunnerMobPrefab-RangedAttackHitbox:20;C1GunnerMobPrefab (1)-RangedAttackHitbox:10"
+"C1_Boss_3","ShieldOnEvade,ReviveOnce,MaxHPBuff,MoreGearIncreaseOnAttack",74.14,29,1,202.20,13.07,15.4744,20,0,97.50,16.08,6.0622,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff}",50.00,12,0,0,1,1,"C1SandMecha-MeleeHitbox:30;C1SandMecha-DashAttackHitbox:10;C1GunnerMobPrefab (4)-RangedAttackHitbox:10"
