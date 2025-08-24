@@ -1,0 +1,14 @@
+SerialNumber,90880a08e5e6ebb67dc5cc8d4c6394ecdab95df2
+TotalPlayTime,947.12
+TotalDeathCount,1
+TotalKilledEnemies,70
+TotalClearedBosses,1
+
+SegmentNumber,EquippedModules,PlayTime,Staff_AttackCount,Staff_SpecialAttackCount,Staff_TotalDamage,Staff_Time,Staff_DPS,Shotgun_AttackCount,Shotgun_SpecialAttackCount,Shotgun_TotalDamage,Shotgun_Time,Shotgun_DPS,Hammer_AttackCount,Hammer_SpecialAttackCount,Hammer_TotalDamage,Hammer_Time,Hammer_DPS,Sword_AttackCount,Sword_SpecialAttackCount,Sword_TotalDamage,Sword_Time,Sword_DPS,WeaponSwitches,DamageReceivedByEnemy,DashCount,SlideDashCount,JumpCount,DodgeCount,DeathCount,EnemyPatternHitLogs
+"C1_Boss_1","MoreGearIncreaseOnAttack,ShieldOnEvade,ExtraDash1",105.13,3,0,0.00,2.33,0.0000,20,1,90.00,21.78,4.1316,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff};{order:3,from:Staff,to:Shotgun}",0.00,5,0,0,1,0,""
+"C1_Boss_2","MoreGearIncreaseOnAttack,ShieldOnEvade,ExtraDash1",99.78,0,0,0.00,0.00,NaN,31,1,555.00,31.15,17.8170,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",0.00,15,1,0,4,0,""
+"C1_Boss_3","MoreGearIncreaseOnAttack,ShieldOnEvade,ExtraDash1",102.03,0,0,0.00,0.00,NaN,34,1,371.38,34.25,10.8430,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",0.00,20,2,3,4,0,""
+"C1_Boss_4","MoreGearIncreaseOnAttack,ShieldOnEvade,ExtraDash1",62.73,0,0,0.00,0.00,NaN,19,3,635.59,26.12,24.3364,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",0.00,6,0,3,1,0,""
+"C1_Boss_5","MoreGearIncreaseOnAttack,ShieldOnEvade,ExtraDash1",78.71,0,0,0.00,0.00,NaN,25,3,736.31,30.15,24.4216,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",0.00,10,0,2,3,0,""
+"C1_Boss_6","MoreGearIncreaseOnAttack,ShieldOnEvade,ExtraDash1",27.96,0,0,0.00,0.00,NaN,12,1,358.75,13.40,26.7722,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",0.00,5,0,2,0,0,""
+"C1_Boss_7","MoreGearIncreaseOnAttack,ShieldOnEvade,ExtraDash1",263.06,0,0,0.00,0.00,NaN,52,6,1343.66,58.53,22.9554,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",70.00,33,0,4,9,1,"C1Boss-DashAttackHitbox:50;C1Boss-FlameThrowerMainHitbox:10;C1GunnerMobPrefab(Clone)-RangedAttackHitbox:10"
