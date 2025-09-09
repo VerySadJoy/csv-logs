@@ -1,0 +1,10 @@
+SerialNumber,2713005d9c40c49b54e34f0e5baba312ec5b8e5e
+TotalPlayTime,561.44
+TotalDeathCount,1
+TotalKilledEnemies,25
+TotalClearedBosses,0
+
+SegmentNumber,EquippedModules,PlayTime,Staff_AttackCount,Staff_SpecialAttackCount,Staff_TotalDamage,Staff_Time,Staff_DPS,Shotgun_AttackCount,Shotgun_SpecialAttackCount,Shotgun_TotalDamage,Shotgun_Time,Shotgun_DPS,Hammer_AttackCount,Hammer_SpecialAttackCount,Hammer_TotalDamage,Hammer_Time,Hammer_DPS,Sword_AttackCount,Sword_SpecialAttackCount,Sword_TotalDamage,Sword_Time,Sword_DPS,WeaponSwitches,DamageReceivedByEnemy,DashCount,SlideDashCount,JumpCount,DodgeCount,DeathCount,EnemyPatternHitLogs
+"C1_Boss_1","BaseMoveSpeedBuff,MaxHPBuff,MoveSpeedBuffOnKill,ExtraDash1,IncreaseGearLevelOnHit",139.38,38,1,98.00,17.47,5.6107,5,1,0.00,6.82,0.0000,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff};{order:3,from:Staff,to:Shotgun};{order:4,from:Shotgun,to:Staff};{order:5,from:Staff,to:Shotgun};{order:6,from:Shotgun,to:Staff}",0.00,2,0,0,1,0,""
+"C1_Boss_2","BaseMoveSpeedBuff,MaxHPBuff,MoveSpeedBuffOnKill,ExtraDash1,IncreaseGearLevelOnHit",72.05,33,3,567.00,16.88,33.5834,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",20.00,10,4,0,0,0,"C1TonpaMobPrefab-AttackHitbox:20"
+"C1_Boss_3","BaseMoveSpeedBuff,MaxHPBuff,MoveSpeedBuffOnKill,ExtraDash1,IncreaseGearLevelOnHit",71.72,17,0,10.70,5.97,1.7933,13,0,51.00,10.92,4.6717,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff}",50.00,7,0,0,0,1,"C1SandMecha-MeleeHitbox:50"
