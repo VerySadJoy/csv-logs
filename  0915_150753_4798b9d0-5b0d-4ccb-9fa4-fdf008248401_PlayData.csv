@@ -1,0 +1,14 @@
+SerialNumber,3af4e78d49e1174d1132e7ab1cd5231cb894ff49
+TotalPlayTime,935.34
+TotalDeathCount,0
+TotalKilledEnemies,66
+TotalClearedBosses,1
+
+SegmentNumber,EquippedModules,PlayTime,Staff_AttackCount,Staff_SpecialAttackCount,Staff_TotalDamage,Staff_Time,Staff_DPS,Shotgun_AttackCount,Shotgun_SpecialAttackCount,Shotgun_TotalDamage,Shotgun_Time,Shotgun_DPS,Hammer_AttackCount,Hammer_SpecialAttackCount,Hammer_TotalDamage,Hammer_Time,Hammer_DPS,Sword_AttackCount,Sword_SpecialAttackCount,Sword_TotalDamage,Sword_Time,Sword_DPS,WeaponSwitches,DamageReceivedByEnemy,DashCount,SlideDashCount,JumpCount,DodgeCount,DeathCount,EnemyPatternHitLogs
+"C1_Boss_1","ShieldOnEvade,ReviveOnce,MaxHPBuff,MoveSpeedBuffOnSpecialAttack",111.58,51,1,88.00,21.17,4.1575,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff};{order:3,from:Staff,to:Shotgun};{order:4,from:Shotgun,to:Staff}",0.00,2,0,8,0,0,""
+"C1_Boss_2","ShieldOnEvade,ReviveOnce,MaxHPBuff,MoveSpeedBuffOnSpecialAttack",60.30,50,0,532.00,21.18,25.1139,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",10.00,11,1,0,2,0,"C1TonpaMobPrefab-AttackHitbox:10"
+"C1_Boss_3","ShieldOnEvade,ReviveOnce,MaxHPBuff,MoveSpeedBuffOnSpecialAttack",86.77,45,0,287.20,18.30,15.6939,13,0,21.00,9.98,2.1035,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff}",20.00,14,0,0,1,0,"C1SandMecha-MeleeHitbox:20"
+"C1_Boss_4","ShieldOnEvade,ReviveOnce,MaxHPBuff,MoveSpeedBuffOnSpecialAttack",40.88,49,0,481.00,21.72,22.1489,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",0.00,13,0,1,2,0,""
+"C1_Boss_5","ShieldOnEvade,ReviveOnce,MaxHPBuff,MoveSpeedBuffOnSpecialAttack",69.93,44,1,555.50,17.70,31.3843,11,0,27.00,7.78,3.4690,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff}",10.00,15,0,0,1,0,"C1TonpaMobPrefab (8)-AttackHitbox:10"
+"C1_Boss_6","ShieldOnEvade,ReviveOnce,MaxHPBuff,MoveSpeedBuffOnSpecialAttack",22.12,29,0,325.00,11.55,28.1386,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",0.00,7,0,0,2,0,""
+"C1_Boss_7","ShieldOnEvade,ReviveOnce,MaxHPBuff,MoveSpeedBuffOnSpecialAttack",218.43,67,8,710.70,34.13,20.8213,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",30.00,13,0,4,1,0,"C1Boss-MeleeAttack1Hitbox:20;C1Boss-DashAttackHitbox:10"
