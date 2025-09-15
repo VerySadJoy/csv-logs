@@ -1,0 +1,16 @@
+SerialNumber,7eb560e4d2a77bf1618bfe79c95e138434e96c4c
+TotalPlayTime,2419.78
+TotalDeathCount,3
+TotalKilledEnemies,97
+TotalClearedBosses,1
+
+SegmentNumber,EquippedModules,PlayTime,Staff_AttackCount,Staff_SpecialAttackCount,Staff_TotalDamage,Staff_Time,Staff_DPS,Shotgun_AttackCount,Shotgun_SpecialAttackCount,Shotgun_TotalDamage,Shotgun_Time,Shotgun_DPS,Hammer_AttackCount,Hammer_SpecialAttackCount,Hammer_TotalDamage,Hammer_Time,Hammer_DPS,Sword_AttackCount,Sword_SpecialAttackCount,Sword_TotalDamage,Sword_Time,Sword_DPS,WeaponSwitches,DamageReceivedByEnemy,DashCount,SlideDashCount,JumpCount,DodgeCount,DeathCount,EnemyPatternHitLogs
+"C1_Boss_1","ShieldOnEvade,ReviveOnce,IncreaseGearLevelOnHit,GenerateShieldOnHit",98.17,3,0,0.00,1.42,0.0000,32,1,90.00,31.65,2.8436,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff};{order:3,from:Staff,to:Shotgun}",0.00,2,0,0,0,0,""
+"C1_Boss_2","ShieldOnEvade,ReviveOnce,IncreaseGearLevelOnHit,GenerateShieldOnHit",71.23,25,0,227.00,10.97,20.6993,15,0,300.00,13.55,22.1403,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Shotgun,to:Staff}",30.00,8,5,2,2,0,"C1TonpaMobPrefab (1)-AttackHitbox:10;C1TonpaMobPrefab-AttackHitbox:10;C1GunnerMobPrefab (8)-RangedAttackHitbox:10"
+"C1_Boss_3","ShieldOnEvade,ReviveOnce,IncreaseGearLevelOnHit,GenerateShieldOnHit",110.47,0,0,0.00,0.00,NaN,47,1,312.00,45.58,6.8446,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun}",40.00,10,3,0,0,0,"C1SandMecha-MeleeHitbox:30;C1GunnerMobPrefab (4)-RangedAttackHitbox:10"
+"C1_Boss_4","ShieldOnEvade,ReviveOnce,IncreaseGearLevelOnHit,GenerateShieldOnHit",57.02,0,0,0.00,0.00,NaN,30,0,450.00,29.37,15.3235,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",20.00,9,3,1,1,0,"C1GunnerMobPrefab (5)-RangedAttackHitbox:10;C1GunnerMobPrefab (7)-RangedAttackHitbox:10"
+"C1_Boss_5","ShieldOnEvade,ReviveOnce,IncreaseGearLevelOnHit,GenerateShieldOnHit",171.12,0,0,0.00,0.00,NaN,58,1,884.18,60.95,14.5067,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",70.00,23,0,0,2,1,"C1TonpaMobPrefab (8)-AttackHitbox:10;C1SandMecha-LandingImpactHitbox:50;C1SandMecha-MeleeHitbox:10"
+"C1_Boss_6","ShieldOnEvade,ReviveOnce,IncreaseGearLevelOnHit,GenerateShieldOnHit",50.45,0,0,0.00,0.00,NaN,20,0,315.00,22.52,13.9896,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",10.00,11,0,0,3,0,"C1GunnerMobPrefab (1)-RangedAttackHitbox:10"
+"C1_Boss_7","ShieldOnEvade,ReviveOnce,IncreaseGearLevelOnHit,GenerateShieldOnHit",612.35,0,0,0.00,0.00,NaN,294,40,1745.86,342.78,5.0932,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Shotgun,to:Shotgun}",150.00,59,0,0,19,2,"C1Boss-FlameThrowerMainHitbox:40;C1CannonExplode(Clone)-C1CannonExplode(Clone):30;C1Boss-FlameThrowerStartHitbox:40;C1Boss-CounterAttackHitbox:30;C1Boss-MeleeAttack2Hitbox :10"
+"C2_Boss_1","ShieldOnEvade,ReviveOnce,IncreaseGearLevelOnHit,GenerateShieldOnHit",104.53,0,0,0.00,0.00,NaN,52,2,224.38,49.99,4.4887,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",30.00,18,3,0,3,0,"C2GunnerMobPrefab-RangedAttackHitbox:20;C2ShieldMobPrefab-ShieldAttackHitbox:10"
+"C2_Boss_2","ShieldOnEvade,ReviveOnce,IncreaseGearLevelOnHit,GenerateShieldOnHit",790.69,0,0,0.00,0.00,NaN,62,14,957.28,90.82,10.5407,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",30.00,42,18,19,4,0,"C2GunnerMobPrefab-RangedAttackHitbox:10;C2ShieldMobPrefab-ShieldAttackHitbox:20"
