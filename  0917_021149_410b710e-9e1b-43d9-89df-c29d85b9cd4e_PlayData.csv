@@ -1,0 +1,12 @@
+SerialNumber,dc04c4cdb1c6ba09ded65b38cd93813d0174246f
+TotalPlayTime,845.93
+TotalDeathCount,6
+TotalKilledEnemies,89
+TotalClearedBosses,0
+
+SegmentNumber,EquippedModules,PlayTime,Staff_AttackCount,Staff_SpecialAttackCount,Staff_TotalDamage,Staff_Time,Staff_DPS,Shotgun_AttackCount,Shotgun_SpecialAttackCount,Shotgun_TotalDamage,Shotgun_Time,Shotgun_DPS,Hammer_AttackCount,Hammer_SpecialAttackCount,Hammer_TotalDamage,Hammer_Time,Hammer_DPS,Sword_AttackCount,Sword_SpecialAttackCount,Sword_TotalDamage,Sword_Time,Sword_DPS,WeaponSwitches,DamageReceivedByEnemy,DashCount,SlideDashCount,JumpCount,DodgeCount,DeathCount,EnemyPatternHitLogs
+"C1_Boss_1","ShieldOnEvade,ExtraDash1,IncreaseGearLevelOnHit,BaseMoveSpeedBuff",114.04,19,0,0.00,10.00,0.0000,15,1,90.00,16.37,5.4990,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff};{order:3,from:Staff,to:Shotgun}",0.00,3,0,3,0,0,""
+"C1_Boss_2","ShieldOnEvade,ExtraDash1,IncreaseGearLevelOnHit,BaseMoveSpeedBuff",63.31,24,4,352.00,12.52,28.1225,13,1,238.75,9.37,25.4892,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Shotgun,to:Staff}",20.00,6,1,0,0,0,"C1TonpaMobPrefab (1)-AttackHitbox:10;C1TonpaMobPrefab-AttackHitbox:10"
+"C1_Boss_3","ShieldOnEvade,ExtraDash1,IncreaseGearLevelOnHit,BaseMoveSpeedBuff",127.12,23,2,261.00,11.30,23.0974,62,4,411.71,48.40,8.5065,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Shotgun};{order:3,from:Shotgun,to:Staff}",60.00,14,1,0,2,1,"C1SandMecha-DashAttackHitbox:10;C1SandMecha-MeleeHitbox:40;C1GunnerMobPrefab (4)-RangedAttackHitbox:10"
+"C1_Boss_4","ShieldOnEvade,ExtraDash1,IncreaseGearLevelOnHit,BaseMoveSpeedBuff",75.52,40,7,660.00,26.47,24.9369,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",60.00,15,1,3,1,1,"FallDamageArea-:60"
+"C1_Boss_5","ShieldOnEvade,ExtraDash1,IncreaseGearLevelOnHit,BaseMoveSpeedBuff",233.86,64,3,810.70,29.65,27.3423,117,11,864.44,73.63,11.7397,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Shotgun};{order:3,from:Shotgun,to:Staff};{order:4,from:Staff,to:Shotgun};{order:5,from:Shotgun,to:Shotgun}",160.00,49,19,6,4,4,"C1TonpaMobPrefab (2)-AttackHitbox:10;C1SandMecha (1)-MeleeHitbox:50;C1SandMecha-MeleeHitbox:40;C1TonpaMobPrefab (8)-AttackHitbox:10;C1TonpaMobPrefab (4)-AttackHitbox:10;C1SandMecha (1)-DashAttackHitbox:10;C1GrenadierExplosionPrefab(Clone)-C1GrenadierExplosionPrefab(Clone):10;C1TonpaMobPrefab (3)-AttackHitbox:10;C1SandMecha-DashAttackHitbox:10"
