@@ -1,0 +1,10 @@
+SerialNumber,391e49e57455dcb1e58be62f5d9c5fc52f29e90c
+TotalPlayTime,598.63
+TotalDeathCount,2
+TotalKilledEnemies,35
+TotalClearedBosses,0
+
+SegmentNumber,EquippedModules,PlayTime,Staff_AttackCount,Staff_SpecialAttackCount,Staff_TotalDamage,Staff_Time,Staff_DPS,Shotgun_AttackCount,Shotgun_SpecialAttackCount,Shotgun_TotalDamage,Shotgun_Time,Shotgun_DPS,Hammer_AttackCount,Hammer_SpecialAttackCount,Hammer_TotalDamage,Hammer_Time,Hammer_DPS,Sword_AttackCount,Sword_SpecialAttackCount,Sword_TotalDamage,Sword_Time,Sword_DPS,WeaponSwitches,DamageReceivedByEnemy,DashCount,SlideDashCount,JumpCount,DodgeCount,DeathCount,EnemyPatternHitLogs
+"C1_Boss_1","",121.26,28,2,84.00,12.83,6.5452,10,0,0.00,9.72,0.0000,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff}",10.00,0,0,6,0,0,"C1TonpaMobPrefab A-AttackHitbox:10"
+"C1_Boss_2","",100.38,33,3,515.00,17.90,28.7715,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",30.00,7,1,9,2,0,"C1TonpaMobPrefab-AttackHitbox:10;C1GunnerMobPrefab (3)-RangedAttackHitbox:10;C1GunnerMobPrefab (7)-RangedAttackHitbox:10"
+"C1_Boss_3","",123.15,8,2,24.40,5.57,4.3832,25,0,16.10,11.37,1.4164,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Shotgun}",80.00,3,0,8,0,2,"C1SandMecha-MeleeHitbox:60;C1SandMecha-DashAttackHitbox:20"
