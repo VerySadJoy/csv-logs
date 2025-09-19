@@ -1,0 +1,9 @@
+SerialNumber,bb64b49c0a1612aad2f1ea2e843a748f3402dd9e
+TotalPlayTime,574.39
+TotalDeathCount,1
+TotalKilledEnemies,17
+TotalClearedBosses,0
+
+SegmentNumber,EquippedModules,PlayTime,Staff_AttackCount,Staff_SpecialAttackCount,Staff_TotalDamage,Staff_Time,Staff_DPS,Shotgun_AttackCount,Shotgun_SpecialAttackCount,Shotgun_TotalDamage,Shotgun_Time,Shotgun_DPS,Hammer_AttackCount,Hammer_SpecialAttackCount,Hammer_TotalDamage,Hammer_Time,Hammer_DPS,Sword_AttackCount,Sword_SpecialAttackCount,Sword_TotalDamage,Sword_Time,Sword_DPS,WeaponSwitches,DamageReceivedByEnemy,DashCount,SlideDashCount,JumpCount,DodgeCount,DeathCount,EnemyPatternHitLogs
+"C1_Boss_1","ShieldOnEvade,ReviveOnce,MaxHPBuff,MoveSpeedBuffOnSpecialAttack",94.23,5,0,0.00,2.92,0.0000,14,2,149.38,14.42,10.3613,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff};{order:3,from:Staff,to:Shotgun};{order:4,from:Shotgun,to:Staff};{order:5,from:Staff,to:Shotgun}",10.00,3,0,13,0,0,"C1TonpaMobPrefab A-AttackHitbox:10"
+"C1_Boss_2","ShieldOnEvade,ReviveOnce,MaxHPBuff,MoveSpeedBuffOnSpecialAttack",202.56,8,0,110.00,4.50,24.4438,28,1,404.38,24.53,16.4827,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Shotgun,to:Staff}",80.00,13,2,2,0,1,"C1TonpaMobPrefab-AttackHitbox:30;C1TonpaMobPrefab (1)-AttackHitbox:10;C1GunnerMobPrefab (1)-RangedAttackHitbox:20;C1GunnerMobPrefab (3)-RangedAttackHitbox:10;C1GunnerMobPrefab (7)-RangedAttackHitbox:10"
