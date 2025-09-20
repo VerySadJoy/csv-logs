@@ -1,0 +1,14 @@
+SerialNumber,bb64b49c0a1612aad2f1ea2e843a748f3402dd9e
+TotalPlayTime,1103.75
+TotalDeathCount,4
+TotalKilledEnemies,75
+TotalClearedBosses,0
+
+SegmentNumber,EquippedModules,PlayTime,Staff_AttackCount,Staff_SpecialAttackCount,Staff_TotalDamage,Staff_Time,Staff_DPS,Shotgun_AttackCount,Shotgun_SpecialAttackCount,Shotgun_TotalDamage,Shotgun_Time,Shotgun_DPS,Hammer_AttackCount,Hammer_SpecialAttackCount,Hammer_TotalDamage,Hammer_Time,Hammer_DPS,Sword_AttackCount,Sword_SpecialAttackCount,Sword_TotalDamage,Sword_Time,Sword_DPS,WeaponSwitches,DamageReceivedByEnemy,DashCount,SlideDashCount,JumpCount,DodgeCount,DeathCount,EnemyPatternHitLogs
+"C1_Boss_1","ExtraDash1,ExtraDash2,MoreGearIncreaseOnAttack,MoreGearOnDashSuccess",153.98,26,2,0.00,13.88,0.0000,15,3,90.00,20.52,4.3867,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff};{order:3,from:Staff,to:Shotgun};{order:4,from:Shotgun,to:Staff};{order:5,from:Staff,to:Shotgun}",0.00,7,0,5,0,0,""
+"C1_Boss_2","ExtraDash1,ExtraDash2,MoreGearIncreaseOnAttack,MoreGearOnDashSuccess",89.73,11,1,104.00,6.97,14.9290,24,2,478.13,24.47,19.5420,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Shotgun,to:Staff}",30.00,18,3,0,0,0,"C1TonpaMobPrefab-AttackHitbox:20;C1TonpaMobPrefab (9)-AttackHitbox:10"
+"C1_Boss_3","ExtraDash1,ExtraDash2,MoreGearIncreaseOnAttack,MoreGearOnDashSuccess",110.05,0,0,0.00,0.27,0.0000,33,1,306.00,32.40,9.4445,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun}",10.00,11,1,2,0,0,"C1SandMecha-MeleeHitbox:10"
+"C1_Boss_4","ExtraDash1,ExtraDash2,MoreGearIncreaseOnAttack,MoreGearOnDashSuccess",44.25,0,0,0.00,0.00,NaN,19,2,673.13,19.88,33.8530,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",20.00,10,3,1,1,0,"FallDamageArea-:20"
+"C1_Boss_5","ExtraDash1,ExtraDash2,MoreGearIncreaseOnAttack,MoreGearOnDashSuccess",124.30,0,0,0.00,0.00,NaN,46,7,1013.50,51.25,19.7758,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",60.00,24,1,0,0,1,"C1GunnerMobPrefab-RangedAttackHitbox:10;C1GrenadierExplosionPrefab(Clone)-C1GrenadierExplosionPrefab(Clone):10;C1GunnerMobPrefab (1)-RangedAttackHitbox:10;C1SandMecha-MeleeHitbox:20;C1SandMecha (1)-MeleeHitbox:10"
+"C1_Boss_6","ExtraDash1,ExtraDash2,MoreGearIncreaseOnAttack,MoreGearOnDashSuccess",34.23,0,0,0.00,0.00,NaN,15,3,359.38,19.55,18.3814,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",0.00,10,3,2,0,0,""
+"C1_Boss_7","ExtraDash1,ExtraDash2,MoreGearIncreaseOnAttack,MoreGearOnDashSuccess",247.61,23,1,90.80,12.10,7.5039,68,4,395.31,64.42,6.1369,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Shotgun,to:Staff};{order:2,from:Staff,to:Shotgun};{order:3,from:Shotgun,to:Staff};{order:4,from:Staff,to:Shotgun};{order:5,from:Shotgun,to:Staff};{order:6,from:Staff,to:Shotgun};{order:7,from:Shotgun,to:Staff}",120.00,34,8,2,5,3,"C1Boss-DashAttackHitbox:60;C1Boss-CounterAttackHitbox:20;C1CannonExplode(Clone)-C1CannonExplode(Clone):20;C1Boss-FlameThrowerMiddleHitbox:10;C1Boss-MeleeAttack2Hitbox :10"
