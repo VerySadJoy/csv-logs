@@ -1,0 +1,12 @@
+SerialNumber,0265f9426fa3f882336d124fddba9d68a573da79
+TotalPlayTime,834.59
+TotalDeathCount,5
+TotalKilledEnemies,84
+TotalClearedBosses,0
+
+SegmentNumber,EquippedModules,PlayTime,Staff_AttackCount,Staff_SpecialAttackCount,Staff_TotalDamage,Staff_Time,Staff_DPS,Shotgun_AttackCount,Shotgun_SpecialAttackCount,Shotgun_TotalDamage,Shotgun_Time,Shotgun_DPS,Hammer_AttackCount,Hammer_SpecialAttackCount,Hammer_TotalDamage,Hammer_Time,Hammer_DPS,Sword_AttackCount,Sword_SpecialAttackCount,Sword_TotalDamage,Sword_Time,Sword_DPS,WeaponSwitches,DamageReceivedByEnemy,DashCount,SlideDashCount,JumpCount,DodgeCount,DeathCount,EnemyPatternHitLogs
+"C1_Boss_1","IncreaseGearLevelOnHit,GenerateShieldOnHit,ShieldOnEvade,ReviveOnce",44.12,12,0,102.00,5.78,17.6369,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",10.00,4,0,6,0,0,"C1TonpaMobPrefab A-AttackHitbox:10"
+"C1_Boss_2","IncreaseGearLevelOnHit,GenerateShieldOnHit,ShieldOnEvade,ReviveOnce",58.62,49,0,546.00,21.20,25.7547,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",30.00,10,1,4,0,0,"C1TonpaMobPrefab-AttackHitbox:10;C1GunnerMobPrefab (1)-RangedAttackHitbox:10;C1GunnerMobPrefab (7)-RangedAttackHitbox:10"
+"C1_Boss_3","IncreaseGearLevelOnHit,GenerateShieldOnHit,ShieldOnEvade,ReviveOnce",190.90,216,3,375.10,93.38,4.0168,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",100.00,45,2,7,6,1,"C1SandMecha-MeleeHitbox:80;C1SandMecha-DashAttackHitbox:10;C1GunnerMobPrefab (4)-RangedAttackHitbox:10"
+"C1_Boss_4","IncreaseGearLevelOnHit,GenerateShieldOnHit,ShieldOnEvade,ReviveOnce",32.92,44,0,525.00,18.38,28.5584,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",10.00,9,0,1,1,0,"C1GunnerMobPrefab (7)-RangedAttackHitbox:10"
+"C1_Boss_5","IncreaseGearLevelOnHit,GenerateShieldOnHit,ShieldOnEvade,ReviveOnce",251.88,315,5,1849.60,129.40,14.2937,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",220.00,55,0,15,10,4,"C1TonpaMobPrefab (8)-AttackHitbox:10;C1TonpaMobPrefab (3)-AttackHitbox:10;C1SandMecha (1)-MeleeHitbox:80;C1SandMecha (1)-DashAttackHitbox:30;C1GunnerMobPrefab-RangedAttackHitbox:10;C1SandMecha-MeleeHitbox:50;C1SandMecha-DashAttackHitbox:10;C1GunnerMobPrefab (1)-RangedAttackHitbox:10;C1TonpaMobPrefab (2)-AttackHitbox:10"
