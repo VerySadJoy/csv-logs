@@ -1,0 +1,14 @@
+SerialNumber,d9d710c9555c4ecb047a96ee79b40461786b3d38
+TotalPlayTime,807.31
+TotalDeathCount,0
+TotalKilledEnemies,63
+TotalClearedBosses,1
+
+SegmentNumber,EquippedModules,PlayTime,Staff_AttackCount,Staff_SpecialAttackCount,Staff_TotalDamage,Staff_Time,Staff_DPS,Shotgun_AttackCount,Shotgun_SpecialAttackCount,Shotgun_TotalDamage,Shotgun_Time,Shotgun_DPS,Hammer_AttackCount,Hammer_SpecialAttackCount,Hammer_TotalDamage,Hammer_Time,Hammer_DPS,Sword_AttackCount,Sword_SpecialAttackCount,Sword_TotalDamage,Sword_Time,Sword_DPS,WeaponSwitches,DamageReceivedByEnemy,DashCount,SlideDashCount,JumpCount,DodgeCount,DeathCount,EnemyPatternHitLogs
+"C1_Boss_1","ExtraDash1,IncreaseGearLevelOnHit,BaseMoveSpeedBuff,ExtraDash2",106.77,41,2,108.00,20.07,5.3820,14,2,0.00,14.88,0.0000,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff}",0.00,8,0,4,0,0,""
+"C1_Boss_2","ExtraDash1,IncreaseGearLevelOnHit,BaseMoveSpeedBuff,ExtraDash2",68.12,43,1,558.00,22.67,24.6178,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",10.00,22,2,0,0,0,"C1TonpaMobPrefab (1)-AttackHitbox:10"
+"C1_Boss_3","ExtraDash1,IncreaseGearLevelOnHit,BaseMoveSpeedBuff,ExtraDash2",72.90,39,0,281.00,18.03,15.5823,15,1,36.00,12.85,2.8016,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff}",0.00,20,0,0,4,0,""
+"C1_Boss_4","ExtraDash1,IncreaseGearLevelOnHit,BaseMoveSpeedBuff,ExtraDash2",32.22,42,2,488.00,20.07,24.3191,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",10.00,13,0,1,0,0,"C1GunnerMobPrefab (8)-RangedAttackHitbox:10"
+"C1_Boss_5","ExtraDash1,IncreaseGearLevelOnHit,BaseMoveSpeedBuff,ExtraDash2",69.83,37,0,395.00,15.33,25.7606,16,2,200.38,12.67,15.8191,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff};{order:3,from:Staff,to:Shotgun};{order:4,from:Shotgun,to:Staff}",20.00,17,0,0,4,0,"C1TonpaMobPrefab (4)-AttackHitbox:10;C1GunnerMobPrefab (1)-RangedAttackHitbox:10"
+"C1_Boss_6","ExtraDash1,IncreaseGearLevelOnHit,BaseMoveSpeedBuff,ExtraDash2",17.87,21,2,351.00,10.28,34.1329,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",0.00,7,0,0,0,0,""
+"C1_Boss_7","ExtraDash1,IncreaseGearLevelOnHit,BaseMoveSpeedBuff,ExtraDash2",211.91,46,5,360.70,24.00,15.0292,39,6,484.75,36.42,13.3113,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff};{order:3,from:Staff,to:Shotgun};{order:4,from:Shotgun,to:Staff};{order:5,from:Staff,to:Shotgun};{order:6,from:Shotgun,to:Staff}",30.00,26,0,0,2,0,"C1Boss-FlameThrowerStartHitbox:10;C1CannonExplode(Clone)-C1CannonExplode(Clone):10;C1Boss-DashAttackHitbox:10"
