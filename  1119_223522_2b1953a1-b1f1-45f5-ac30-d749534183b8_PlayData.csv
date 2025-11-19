@@ -1,0 +1,8 @@
+SerialNumber,299ecc13f33be77c4b289ea5ab3e9366fe828a85
+TotalPlayTime,828.22
+TotalDeathCount,4
+TotalKilledEnemies,22
+TotalClearedBosses,0
+
+SegmentNumber,EquippedModules,PlayTime,Staff_AttackCount,Staff_SpecialAttackCount,Staff_TotalDamage,Staff_Time,Staff_DPS,Shotgun_AttackCount,Shotgun_SpecialAttackCount,Shotgun_TotalDamage,Shotgun_Time,Shotgun_DPS,Hammer_AttackCount,Hammer_SpecialAttackCount,Hammer_TotalDamage,Hammer_Time,Hammer_DPS,Sword_AttackCount,Sword_SpecialAttackCount,Sword_TotalDamage,Sword_Time,Sword_DPS,Spear_AttackCount,Spear_SpecialAttackCount,Spear_TotalDamage,Spear_Time,Spear_DPS,WeaponSwitches,DamageReceivedByEnemy,DashCount,SlideDashCount,JumpCount,DodgeCount,DeathCount,EnemyPatternHitLogs
+"C1_Stage2_1","",252.52,20,0,130.00,6.20,20.9673,56,0,705.00,30.62,23.0267,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff};{order:3,from:Staff,to:Shotgun};{order:4,from:Shotgun,to:Shotgun};{order:5,from:Shotgun,to:Shotgun};{order:6,from:Shotgun,to:Staff}",250.00,9,1,0,0,4,"C1PistolMobForDashTutorial-AttackHitbox:100;C1TonpaMobPrefab (1)-AttackHitbox:30;C1TonpaMobPrefab (2)-AttackHitbox:40;C1TonpaMobPrefab (4)-AttackHitbox:20;C1TonpaMobPrefab-AttackHitbox:30;C1TonpaMobPrefab (3)-AttackHitbox:30"
