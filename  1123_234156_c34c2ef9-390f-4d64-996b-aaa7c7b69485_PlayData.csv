@@ -1,0 +1,10 @@
+SerialNumber,273af580dcaec0765061f01913a9f78780bc66e5
+TotalPlayTime,846.44
+TotalDeathCount,6
+TotalKilledEnemies,55
+TotalClearedBosses,0
+
+SegmentNumber,EquippedModules,PlayTime,Staff_AttackCount,Staff_SpecialAttackCount,Staff_TotalDamage,Staff_Time,Staff_DPS,Shotgun_AttackCount,Shotgun_SpecialAttackCount,Shotgun_TotalDamage,Shotgun_Time,Shotgun_DPS,Hammer_AttackCount,Hammer_SpecialAttackCount,Hammer_TotalDamage,Hammer_Time,Hammer_DPS,Sword_AttackCount,Sword_SpecialAttackCount,Sword_TotalDamage,Sword_Time,Sword_DPS,Spear_AttackCount,Spear_SpecialAttackCount,Spear_TotalDamage,Spear_Time,Spear_DPS,WeaponSwitches,DamageReceivedByEnemy,DashCount,SlideDashCount,JumpCount,DodgeCount,DeathCount,EnemyPatternHitLogs
+"C1_Stage2_1","",140.55,88,0,890.00,32.88,27.0655,11,0,150.00,9.88,15.1770,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff}",140.00,27,9,0,1,1,"C1PistolMobForDashTutorial-AttackHitbox:80;C1TonpaMobPrefab (3)-AttackHitbox:10;C1TonpaMobPrefab-AttackHitbox:30;C1TonpaMobPrefab (4)-AttackHitbox:10;C1TonpaMobPrefab (2)-AttackHitbox:10"
+"C1_Stage2_2","",21.23,14,0,170.00,5.90,28.8143,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",30.00,5,2,3,0,0,"FallDamageArea-:20;C1TonpaMobPrefab (2)-AttackHitbox:10"
+"C1_Stage2_3","",199.79,43,0,517.00,16.28,31.7502,58,0,853.00,35.05,24.3367,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff};{order:3,from:Staff,to:Shotgun};{order:4,from:Shotgun,to:Staff};{order:5,from:Staff,to:Shotgun};{order:6,from:Shotgun,to:Shotgun}",310.00,38,18,13,4,5,"C1PistolMobForDashTutorial-AttackHitbox:100;C1TonpaMobPrefab (4)-AttackHitbox:20;C1TonpaMobPrefab (5)-AttackHitbox:20;C1PistolMob (1)-AttackHitbox:30;C1EliteTonpaMob-Rush Attack:30;C1EliteTonpaMob-Attack:10;C1GunnerMobPrefab (1)-RangedAttackHitbox:10;C1TonpaMobPrefab (8)-AttackHitbox:10;C1TonpaMobPrefab (7)-AttackHitbox:10;C1TonpaMobPrefab (9)-AttackHitbox:10;FallDamageArea (1)-:20;FallDamageArea-:40"
