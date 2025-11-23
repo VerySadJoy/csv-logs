@@ -1,0 +1,10 @@
+SerialNumber,e60eb4d49e6ecb853d9fa48cbb967ac6e9a2158e
+TotalPlayTime,2131.29
+TotalDeathCount,5
+TotalKilledEnemies,52
+TotalClearedBosses,0
+
+SegmentNumber,EquippedModules,PlayTime,Staff_AttackCount,Staff_SpecialAttackCount,Staff_TotalDamage,Staff_Time,Staff_DPS,Shotgun_AttackCount,Shotgun_SpecialAttackCount,Shotgun_TotalDamage,Shotgun_Time,Shotgun_DPS,Hammer_AttackCount,Hammer_SpecialAttackCount,Hammer_TotalDamage,Hammer_Time,Hammer_DPS,Sword_AttackCount,Sword_SpecialAttackCount,Sword_TotalDamage,Sword_Time,Sword_DPS,Spear_AttackCount,Spear_SpecialAttackCount,Spear_TotalDamage,Spear_Time,Spear_DPS,WeaponSwitches,DamageReceivedByEnemy,DashCount,SlideDashCount,JumpCount,DodgeCount,DeathCount,EnemyPatternHitLogs
+"C1_Stage2_1","",140.87,0,0,0.00,0.00,NaN,86,0,920.00,28.05,32.7987,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun}",160.00,8,5,0,2,2,"C1TonpaMobPrefab (2)-AttackHitbox:30;C1TonpaMobPrefab (4)-AttackHitbox:30;C1PistolMobForDashTutorial-AttackHitbox:50;C1TonpaMobPrefab-AttackHitbox:20;C1TonpaMobPrefab (1)-AttackHitbox:10;C1TonpaMobPrefab (3)-AttackHitbox:10;C1GunnerMobPrefab-RangedAttackHitbox:10"
+"C1_Stage2_2","",13.87,12,0,150.00,3.65,41.0970,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",10.00,0,0,2,0,0,"C1TonpaMobPrefab-AttackHitbox:10"
+"C1_Stage2_3","",101.25,136,0,1208.00,36.53,33.0663,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",190.00,7,4,6,4,3,"C1PistolMobForDashTutorial-AttackHitbox:60;C1TonpaMobPrefab (4)-AttackHitbox:10;C1PistolMob (1)-AttackHitbox:40;C1TonpaMobPrefab (9)-AttackHitbox:20;C1TonpaMobPrefab (5)-AttackHitbox:10;C1TonpaMobPrefab (10)-AttackHitbox:10;C1EliteTonpaMob-Rush Attack:10;C1EliteTonpaMob-Attack:20;C1GunnerMobPrefab-RangedAttackHitbox:10"
