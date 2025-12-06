@@ -1,0 +1,11 @@
+SerialNumber,6984455e9dddce9c12b4da8434c06568a4c38173
+TotalPlayTime,886.26
+TotalDeathCount,3
+TotalKilledEnemies,72
+TotalClearedBosses,0
+
+SegmentNumber,EquippedModules,PlayTime,Staff_AttackCount,Staff_SpecialAttackCount,Staff_TotalDamage,Staff_Time,Staff_DPS,Shotgun_AttackCount,Shotgun_SpecialAttackCount,Shotgun_TotalDamage,Shotgun_Time,Shotgun_DPS,Hammer_AttackCount,Hammer_SpecialAttackCount,Hammer_TotalDamage,Hammer_Time,Hammer_DPS,Sword_AttackCount,Sword_SpecialAttackCount,Sword_TotalDamage,Sword_Time,Sword_DPS,Spear_AttackCount,Spear_SpecialAttackCount,Spear_TotalDamage,Spear_Time,Spear_DPS,WeaponSwitches,DamageReceivedByEnemy,DashCount,SlideDashCount,JumpCount,DodgeCount,DeathCount,EnemyPatternHitLogs
+"C1_Stage2_1","",93.37,35,0,410.00,11.92,34.4047,12,0,135.00,8.35,16.1703,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff};{order:3,from:Staff,to:Shotgun};{order:4,from:Shotgun,to:Staff};{order:5,from:Staff,to:Shotgun};{order:6,from:Shotgun,to:Staff}",0.00,20,5,9,4,0,""
+"C1_Stage2_2","",13.78,11,0,110.00,4.27,25.7876,6,0,60.00,4.50,13.3304,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff}",0.00,6,0,1,0,0,""
+"C1_Stage2_3","",78.10,49,0,600.00,14.00,42.8571,46,0,468.00,21.75,21.5172,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Shotgun};{order:3,from:Shotgun,to:Staff};{order:4,from:Staff,to:Shotgun};{order:5,from:Shotgun,to:Staff};{order:6,from:Staff,to:Shotgun};{order:7,from:Shotgun,to:Staff};{order:8,from:Staff,to:Shotgun};{order:9,from:Shotgun,to:Staff}",70.00,22,6,9,8,1,"C1PistolMobForDashTutorial-AttackHitbox:20;C1PistolMob (1)-AttackHitbox:40;C1TonpaMobPrefab (10)-AttackHitbox:10"
+"C1_Stage2_4","",83.41,64,0,900.00,18.50,48.6461,11,0,225.00,6.57,34.2602,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff};{order:3,from:Staff,to:Shotgun};{order:4,from:Shotgun,to:Staff}",80.00,15,6,14,5,2,"C1PistolMob-AttackHitbox:40;C1PistolMob (2)-AttackHitbox:10;C1TonpaMobPrefab (18)-AttackHitbox:20;FallDamageArea (3)-:10"
