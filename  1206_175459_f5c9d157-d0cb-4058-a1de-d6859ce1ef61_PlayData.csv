@@ -1,0 +1,12 @@
+SerialNumber,6984455e9dddce9c12b4da8434c06568a4c38173
+TotalPlayTime,1063.00
+TotalDeathCount,3
+TotalKilledEnemies,102
+TotalClearedBosses,0
+
+SegmentNumber,EquippedModules,PlayTime,Staff_AttackCount,Staff_SpecialAttackCount,Staff_TotalDamage,Staff_Time,Staff_DPS,Shotgun_AttackCount,Shotgun_SpecialAttackCount,Shotgun_TotalDamage,Shotgun_Time,Shotgun_DPS,Hammer_AttackCount,Hammer_SpecialAttackCount,Hammer_TotalDamage,Hammer_Time,Hammer_DPS,Sword_AttackCount,Sword_SpecialAttackCount,Sword_TotalDamage,Sword_Time,Sword_DPS,Spear_AttackCount,Spear_SpecialAttackCount,Spear_TotalDamage,Spear_Time,Spear_DPS,WeaponSwitches,DamageReceivedByEnemy,DashCount,SlideDashCount,JumpCount,DodgeCount,DeathCount,EnemyPatternHitLogs
+"C1_Stage2_1","",67.13,46,0,530.00,13.95,37.9926,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun}",60.00,12,7,13,3,0,"C1TonpaMobPrefab (2)-AttackHitbox:10;C1TonpaMobPrefab (4)-AttackHitbox:10;C1TonpaMobPrefab-AttackHitbox:20;C1GunnerMobPrefab-RangedAttackHitbox:10;C1PistolMobForDashTutorial-AttackHitbox:10"
+"C1_Stage2_2","",17.00,7,0,120.00,2.55,47.0579,2,0,30.00,1.10,27.2733,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Shotgun,to:Staff}",30.00,2,1,7,0,0,"C1TonpaMobPrefab-AttackHitbox:20;C1TonpaMobPrefab (2)-AttackHitbox:10"
+"C1_Stage2_3","",116.88,61,0,594.00,18.78,31.6241,34,0,78.00,33.40,2.3353,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff}",150.00,37,11,16,3,0,"C1PistolMobForDashTutorial-AttackHitbox:20;C1TonpaMobPrefab (4)-AttackHitbox:10;C1TonpaMobPrefab (8)-AttackHitbox:10;C1PistolMob (1)-AttackHitbox:10;C1TonpaMobPrefab (10)-AttackHitbox:10;C1GunnerMobPrefab-RangedAttackHitbox:10;C1EliteTonpaMob-Rush Attack:70;C1EliteTonpaMob-Attack:10"
+"C1_Stage2_4","",111.35,86,0,1700.00,27.73,61.2981,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",150.00,26,4,36,3,2,"C1PistolMob-AttackHitbox:50;C1TonpaMobPrefab (11)-AttackHitbox:10;C1GunnerMobPrefab-RangedAttackHitbox:30;C1PistolMob (2)-AttackHitbox:20;C1GunnerMobPrefab (1)-RangedAttackHitbox:30;C1TonpaMobPrefab (3)-AttackHitbox:10"
+"C1_Stage2_5","",68.39,11,0,83.00,3.25,25.5385,1,0,0.00,0.83,0.0000,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun}",40.00,2,0,5,0,1,"C1TonpaMobPrefab-AttackHitbox:10;C1EliteTonpaMob-Rush Attack:20;C1EliteTonpaMob-Attack:10"
