@@ -1,0 +1,13 @@
+SerialNumber,6984455e9dddce9c12b4da8434c06568a4c38173
+TotalPlayTime,1173.62
+TotalDeathCount,2
+TotalKilledEnemies,84
+TotalClearedBosses,0
+
+SegmentNumber,EquippedModules,PlayTime,Staff_AttackCount,Staff_SpecialAttackCount,Staff_TotalDamage,Staff_Time,Staff_DPS,Shotgun_AttackCount,Shotgun_SpecialAttackCount,Shotgun_TotalDamage,Shotgun_Time,Shotgun_DPS,Hammer_AttackCount,Hammer_SpecialAttackCount,Hammer_TotalDamage,Hammer_Time,Hammer_DPS,Sword_AttackCount,Sword_SpecialAttackCount,Sword_TotalDamage,Sword_Time,Sword_DPS,Spear_AttackCount,Spear_SpecialAttackCount,Spear_TotalDamage,Spear_Time,Spear_DPS,WeaponSwitches,DamageReceivedByEnemy,DashCount,SlideDashCount,JumpCount,DodgeCount,DeathCount,EnemyPatternHitLogs
+"C1_Stage2_1","",63.43,42,0,540.00,12.92,41.8078,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",30.00,8,0,4,2,0,"C1TonpaMobPrefab (2)-AttackHitbox:10;C1PistolMobForDashTutorial-AttackHitbox:20"
+"C1_Stage2_2","",16.27,11,0,150.00,3.65,41.0942,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",10.00,2,0,2,0,0,"FallDamageArea-:10"
+"C1_Stage2_3","",74.85,50,0,521.00,17.42,29.9146,22,0,129.00,21.62,5.9677,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun}",70.00,13,1,8,2,0,"C1PistolMobForDashTutorial-AttackHitbox:20;C1PistolMob (1)-AttackHitbox:20;C1EliteTonpaMob-Rush Attack:20;C1GunnerMobPrefab-RangedAttackHitbox:10"
+"C1_Stage2_4","",105.70,81,0,1220.00,26.48,46.0658,5,0,120.00,3.17,37.9025,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Shotgun,to:Staff};{order:2,from:Staff,to:Staff};{order:3,from:Staff,to:Staff}",150.00,12,1,19,1,2,"C1PistolMob-AttackHitbox:60;C1TonpaMobPrefab (12)-AttackHitbox:10;C1GunnerMobPrefab-RangedAttackHitbox:30;C1TonpaMobPrefab (11)-AttackHitbox:10;C1PistolMob (2)-AttackHitbox:20;FallDamageArea (3)-:10;C1TonpaMobPrefab (1)-AttackHitbox:10"
+"C1_Stage2_5","",55.35,20,0,230.00,7.13,32.2454,17,0,84.00,16.23,5.1747,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff}",20.00,3,0,8,0,0,"C1EliteTonpaMob-Rush Attack:20"
+"C1_Stage2_6","",35.19,38,0,520.00,11.77,44.1855,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",30.00,7,0,0,2,0,"C1PistolMob-AttackHitbox:10;C1TonpaMobPrefab (7)-AttackHitbox:10;C1TonpaMobPrefab (6)-AttackHitbox:10"
