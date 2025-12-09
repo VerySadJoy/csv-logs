@@ -1,0 +1,14 @@
+SerialNumber,d6e2d29b28a29caa6bb9664552baf49bf1473c3a
+TotalPlayTime,797.19
+TotalDeathCount,3
+TotalKilledEnemies,73
+TotalClearedBosses,1
+
+SegmentNumber,EquippedModules,PlayTime,Staff_AttackCount,Staff_SpecialAttackCount,Staff_TotalDamage,Staff_Time,Staff_DPS,Shotgun_AttackCount,Shotgun_SpecialAttackCount,Shotgun_TotalDamage,Shotgun_Time,Shotgun_DPS,Hammer_AttackCount,Hammer_SpecialAttackCount,Hammer_TotalDamage,Hammer_Time,Hammer_DPS,Sword_AttackCount,Sword_SpecialAttackCount,Sword_TotalDamage,Sword_Time,Sword_DPS,WeaponSwitches,DamageReceivedByEnemy,DashCount,SlideDashCount,JumpCount,DodgeCount,DeathCount,EnemyPatternHitLogs
+"C1_Boss_1","ShieldOnEvade,BaseMoveSpeedBuff,MaxHPBuff,ExtraDash1",88.00,18,1,88.00,8.10,10.8642,21,2,0.00,21.40,0.0000,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff}",10.00,2,0,2,0,0,"C1TonpaMobPrefab A-AttackHitbox:10"
+"C1_Boss_2","ShieldOnEvade,BaseMoveSpeedBuff,MaxHPBuff,ExtraDash1",55.59,31,2,442.00,16.93,26.1024,5,0,135.00,1.40,96.4290,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff}",20.00,10,2,0,1,0,"C1TonpaMobPrefab-AttackHitbox:10;C1GunnerMobPrefab-RangedAttackHitbox:10"
+"C1_Boss_3","ShieldOnEvade,BaseMoveSpeedBuff,MaxHPBuff,ExtraDash1",64.02,16,2,336.00,9.55,35.1830,9,1,140.38,9.68,14.4966,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff}",0.00,10,1,0,2,0,""
+"C1_Boss_4","ShieldOnEvade,BaseMoveSpeedBuff,MaxHPBuff,ExtraDash1",29.44,24,2,477.00,14.20,33.5915,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",0.00,8,1,2,2,0,""
+"C1_Boss_5","ShieldOnEvade,BaseMoveSpeedBuff,MaxHPBuff,ExtraDash1",59.83,37,1,484.00,15.58,31.0587,7,2,203.31,6.83,29.7530,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Shotgun};{order:2,from:Shotgun,to:Staff}",0.00,16,0,0,5,0,""
+"C1_Boss_6","ShieldOnEvade,BaseMoveSpeedBuff,MaxHPBuff,ExtraDash1",21.33,18,0,305.00,7.93,38.4456,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",0.00,6,0,4,2,0,""
+"C1_Boss_7","ShieldOnEvade,BaseMoveSpeedBuff,MaxHPBuff,ExtraDash1",267.89,133,17,2374.00,68.15,34.8350,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",170.00,40,0,4,7,3,"C1Boss-DashAttackHitbox:30;C1Boss-MeleeAttack1Hitbox:10;C1Boss-MeleeAttack3Hitbox:30;C1Boss-CounterAttackHitbox:30;C1CannonExplode(Clone)-C1CannonExplode(Clone):20;C1TonpaMobPrefab(Clone)-AttackHitbox:20;C1Boss-MeleeAttack2Hitbox :20;C1GunnerMobPrefab(Clone)-RangedAttackHitbox:10"
