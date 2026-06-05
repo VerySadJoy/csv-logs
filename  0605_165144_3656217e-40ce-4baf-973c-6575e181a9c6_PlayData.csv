@@ -1,0 +1,9 @@
+SerialNumber,ef2a0854574883984b0fbe07eca55fcc9b668436
+TotalPlayTime,686.51
+TotalDeathCount,3
+TotalKilledEnemies,62
+TotalClearedBosses,0
+
+SegmentNumber,EquippedModules,PlayTime,Staff_AttackCount,Staff_SpecialAttackCount,Staff_TotalDamage,Staff_Time,Staff_DPS,Shotgun_AttackCount,Shotgun_SpecialAttackCount,Shotgun_TotalDamage,Shotgun_Time,Shotgun_DPS,Hammer_AttackCount,Hammer_SpecialAttackCount,Hammer_TotalDamage,Hammer_Time,Hammer_DPS,Sword_AttackCount,Sword_SpecialAttackCount,Sword_TotalDamage,Sword_Time,Sword_DPS,Spear_AttackCount,Spear_SpecialAttackCount,Spear_TotalDamage,Spear_Time,Spear_DPS,WeaponSwitches,DamageReceivedByEnemy,DashCount,SlideDashCount,JumpCount,DodgeCount,DeathCount,EnemyPatternHitLogs
+"C2_Stage2_1","StrongerFeverTime",35.68,32,0,384.00,11.75,32.6812,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,16,2,355.00,7.10,49.9993,"{order:1,from:Spear,to:Spear};{order:2,from:Staff,to:Staff};{order:3,from:Spear,to:Spear};{order:4,from:Staff,to:Staff}",30.00,14,8,0,5,0,"C2ElecWhipmanPrefab (1)-LowAttackHitBox:10;C2ElecWhipmanPrefab (1)-AttackHitBox:10;C2GunnerMobPrefab-RangedAttackHitbox:10"
+"C2_Stage2_2","StrongerFeverTime",148.88,50,0,709.50,21.20,33.4670,3,0,30.00,1.83,16.3638,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,76,6,1860.00,43.53,42.7256,"{order:1,from:Spear,to:Spear};{order:2,from:Staff,to:Staff};{order:3,from:Spear,to:Spear};{order:4,from:Spear,to:Spear};{order:5,from:Staff,to:Staff};{order:6,from:Spear,to:Spear};{order:7,from:Shotgun,to:Shotgun};{order:8,from:Spear,to:Spear};{order:9,from:Spear,to:Spear};{order:10,from:Staff,to:Staff};{order:11,from:Spear,to:Spear};{order:12,from:Spear,to:Spear}",120.00,43,16,1,15,3,"C2ElecWhipmanPrefab-LowAttackHitBox:10;C2ElecWhipmanPrefab-AttackHitBox:20;Player-슈아2 감전 스택 폭발:50;C2GunnerMobPrefab-RangedAttackHitbox:10;C2TonpaManPrefab-MeleeAttackHitbox:10;Crosshair-hitbox:20"
