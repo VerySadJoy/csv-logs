@@ -1,0 +1,18 @@
+SerialNumber,14af598019c9d5532d7618868fb6cb05878261b4
+TotalPlayTime,1314.01
+TotalDeathCount,2
+TotalKilledEnemies,101
+TotalClearedBosses,0
+
+SegmentNumber,EquippedModules,PlayTime,Staff_AttackCount,Staff_SpecialAttackCount,Staff_TotalDamage,Staff_Time,Staff_DPS,Shotgun_AttackCount,Shotgun_SpecialAttackCount,Shotgun_TotalDamage,Shotgun_Time,Shotgun_DPS,Hammer_AttackCount,Hammer_SpecialAttackCount,Hammer_TotalDamage,Hammer_Time,Hammer_DPS,Sword_AttackCount,Sword_SpecialAttackCount,Sword_TotalDamage,Sword_Time,Sword_DPS,Spear_AttackCount,Spear_SpecialAttackCount,Spear_TotalDamage,Spear_Time,Spear_DPS,WeaponSwitches,DamageReceivedByEnemy,DashCount,SlideDashCount,JumpCount,DodgeCount,DeathCount,EnemyPatternHitLogs
+"C1_Stage2_1","",29.32,21,0,278.00,7.38,37.6527,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",10.00,6,0,3,0,0,"C1TonpaMobPrefab (3)-AttackHitbox:10"
+"C1_Stage2_2","",105.92,31,0,384.00,11.28,34.0325,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",30.00,10,7,2,1,0,"C1PistolMobForDashTutorial-AttackHitbox:10;C1PistolMobForDashTutorial (1)-AttackHitbox:20"
+"C1_Stage2_3","",5.51,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Shotgun,to:Shotgun}",0.00,0,0,0,0,0,""
+"C1_Stage2_4","",114.38,0,0,0.00,0.00,NaN,55,6,1067.00,51.58,20.6851,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Staff};{order:2,from:Shotgun,to:Shotgun}",80.00,29,9,0,4,0,"C1EliteTonpaMob-Rush Attack:20;C1TonpaMobPrefab (4)-AttackHitbox:10;C1EliteTonpaMob-Attack:20;C1EliteTonpaMob (1)-Rush Attack:10;C1GunnerMobPrefab-RangedAttackHitbox:10;C1PistolMobForDashTutorial-AttackHitbox:10"
+"C1_Stage2_5","",37.32,0,0,0.00,0.00,NaN,19,2,352.00,18.73,18.7900,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",20.00,6,3,4,1,0,"C1TonpaMobPrefab (2)-AttackHitbox:10;C1TonpaMobPrefab (1)-AttackHitbox:10"
+"C1_Stage2_6","",99.15,0,0,0.00,0.00,NaN,53,4,917.00,51.37,17.8521,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",70.00,22,13,10,4,0,"C1PistolMobForDashTutorial-AttackHitbox:10;C1PistolMob (1)-AttackHitbox:20;C1EliteTonpaMob (2)-Rush Attack:10;FallDamageArea (1)-:10;C1EliteTonpaMob-Rush Attack:10;C1GunnerMobPrefab (1)-RangedAttackHitbox:10"
+"C1_Stage2_7","",138.38,0,0,0.00,0.00,NaN,80,6,1626.00,74.67,21.7768,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",130.00,38,11,8,10,0,"C1EliteTonpaMob (3)-Rush Attack:20;C1TonpaMobPrefab (12)-AttackHitbox:20;C1PistolMob (2)-AttackHitbox:10;C1EliteTonpaMob (4)-Attack:10;C1TonpaMobPrefab (18)-AttackHitbox:10;C1TonpaMobPrefab (17)-AttackHitbox:10;C1EliteTonpaMob-Rush Attack:30;C1TonpaMobPrefab (3)-AttackHitbox:10;C1PistolMob-AttackHitbox:10"
+"C1_Stage2_8","",125.53,0,0,0.00,0.00,NaN,67,3,772.00,63.43,12.1702,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",100.00,32,3,6,4,1,"C1EliteTonpaMob-Rush Attack:50;C1PistolMob-AttackHitbox:40;C1TonpaMobPrefab (20)-AttackHitbox:10"
+"C1_Stage2_9","",77.63,43,0,688.40,18.75,36.7144,21,2,476.00,16.43,28.9653,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Staff};{order:2,from:Shotgun,to:Shotgun};{order:3,from:Staff,to:Staff}",30.00,18,9,0,4,0,"C1PistolMob-AttackHitbox:20;C1GunnerMobPrefab (1)-RangedAttackHitbox:10"
+"C1_Stage2_10","",90.04,8,0,1.40,5.02,0.2791,28,2,229.00,29.42,7.7846,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Shotgun,to:Shotgun};{order:2,from:Shotgun,to:Shotgun}",90.00,19,1,5,2,1,"C1SandMecha-MeleeHitbox:90"
+"C1_Stage3_1","",1.66,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",0.00,0,0,0,0,0,""
