@@ -1,0 +1,14 @@
+SerialNumber,a93b3ec10fecc477fe8101139c18fab9e95ca42a
+TotalPlayTime,1209.77
+TotalDeathCount,4
+TotalKilledEnemies,27
+TotalClearedBosses,0
+
+SegmentNumber,EquippedModules,PlayTime,Staff_AttackCount,Staff_SpecialAttackCount,Staff_TotalDamage,Staff_Time,Staff_DPS,Shotgun_AttackCount,Shotgun_SpecialAttackCount,Shotgun_TotalDamage,Shotgun_Time,Shotgun_DPS,Hammer_AttackCount,Hammer_SpecialAttackCount,Hammer_TotalDamage,Hammer_Time,Hammer_DPS,Sword_AttackCount,Sword_SpecialAttackCount,Sword_TotalDamage,Sword_Time,Sword_DPS,Spear_AttackCount,Spear_SpecialAttackCount,Spear_TotalDamage,Spear_Time,Spear_DPS,WeaponSwitches,DamageReceivedByEnemy,DashCount,SlideDashCount,JumpCount,DodgeCount,DeathCount,EnemyPatternHitLogs
+"C1_Stage1_1","",114.98,121,0,0.00,35.73,0.0000,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",80.00,22,21,4,13,0,"C1MidBoss-TangTang 1:20;C1MidBoss-TangTang 2:20;C1MidBoss-RushKick:40"
+"C1_Stage2_1","",84.93,58,0,692.00,19.02,36.3890,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",40.00,8,3,30,3,0,"C1PistolMobForDashTutorial-AttackHitbox:10;C1PistolMobForDashTutorial (1)-AttackHitbox:30"
+"C1_Stage2_2","",132.19,22,0,2.82,6.33,0.4453,42,3,318.15,39.42,8.0714,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Shotgun,to:Shotgun};{order:2,from:Shotgun,to:Shotgun}",80.00,14,11,11,6,1,"Stranger (tutorial boss)-Attack:30;Stranger (tutorial boss)-Rush Attack:50"
+"C1_Stage2_3","",16.71,0,0,0.00,0.00,NaN,2,0,0.00,2.63,0.0000,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Staff};{order:2,from:Shotgun,to:Shotgun}",0.00,0,0,0,0,0,""
+"C1_Stage3_1","",280.30,275,0,0.00,93.93,0.0000,18,0,0.00,11.93,0.0000,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Staff,to:Staff};{order:2,from:Staff,to:Staff};{order:3,from:Staff,to:Staff}",300.00,99,87,4,53,2,"C1MidBoss-TangTang 1:60;C1MidBoss-Taaang:30;C1MidBoss-KickKick 2:110;C1MidBoss-TangTang 2:30;C1MidBoss-KickKick 1:30;C1MidBoss-Room Center TangTang 1:30;C1MidBoss-RushKick:10"
+"C1_Boss_1","ReduceDashCooltime",46.79,10,0,108.00,3.35,32.2390,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",10.00,0,0,4,0,0,"C1TonpaMobPrefab A-AttackHitbox:10"
+"C1_Boss_2","ReduceDashCooltime",61.85,10,0,61.80,4.18,14.7729,21,0,96.00,13.40,7.1641,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Shotgun,to:Shotgun};{order:2,from:Shotgun,to:Shotgun};{order:3,from:Staff,to:Staff};{order:4,from:Shotgun,to:Shotgun};{order:5,from:Staff,to:Staff};{order:6,from:Shotgun,to:Shotgun}",90.00,8,0,8,0,1,"C1EliteTonpaMob-Rush Attack:60;C1EliteTonpaMob-Attack:10;C1GunnerMobPrefab (1)-RangedAttackHitbox:10;C1SandMecha (1)-MeleeHitbox:10"
