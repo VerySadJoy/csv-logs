@@ -1,0 +1,13 @@
+SerialNumber,56d6f1e14cdb996c0c46e4cb162969d577c31fd3
+TotalPlayTime,672.91
+TotalDeathCount,0
+TotalKilledEnemies,43
+TotalClearedBosses,0
+
+SegmentNumber,EquippedModules,PlayTime,Staff_AttackCount,Staff_SpecialAttackCount,Staff_TotalDamage,Staff_Time,Staff_DPS,Shotgun_AttackCount,Shotgun_SpecialAttackCount,Shotgun_TotalDamage,Shotgun_Time,Shotgun_DPS,Hammer_AttackCount,Hammer_SpecialAttackCount,Hammer_TotalDamage,Hammer_Time,Hammer_DPS,Sword_AttackCount,Sword_SpecialAttackCount,Sword_TotalDamage,Sword_Time,Sword_DPS,Spear_AttackCount,Spear_SpecialAttackCount,Spear_TotalDamage,Spear_Time,Spear_DPS,WeaponSwitches,DamageReceivedByEnemy,DashCount,SlideDashCount,JumpCount,DodgeCount,DeathCount,EnemyPatternHitLogs
+"C1_Stage1_1","",92.72,102,0,0.00,32.90,0.0000,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",0.00,17,16,1,14,0,""
+"C1_Stage2_1","",43.68,32,0,673.00,10.53,63.8926,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",10.00,10,9,10,5,0,"C1TonpaMobPrefab (2)-AttackHitbox:10"
+"C1_Stage2_2","",141.84,11,0,1.61,3.22,0.5005,32,3,332.55,28.27,11.7647,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Shotgun,to:Shotgun};{order:2,from:Staff,to:Staff};{order:3,from:Shotgun,to:Shotgun};{order:4,from:Staff,to:Staff};{order:5,from:Shotgun,to:Shotgun};{order:6,from:Staff,to:Staff};{order:7,from:Shotgun,to:Shotgun};{order:8,from:Staff,to:Staff}",90.00,8,6,10,5,0,"Stranger (tutorial boss)-Rush Attack:70;Stranger (tutorial boss)-Attack:20"
+"C1_Stage2_3","",98.58,55,0,651.50,20.50,31.7805,20,4,333.00,14.15,23.5336,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Shotgun,to:Shotgun};{order:2,from:Staff,to:Staff};{order:3,from:Shotgun,to:Shotgun};{order:4,from:Staff,to:Staff};{order:5,from:Shotgun,to:Shotgun};{order:6,from:Staff,to:Staff};{order:7,from:Shotgun,to:Shotgun};{order:8,from:Staff,to:Staff}",50.00,6,6,12,3,0,"C1EliteTonpaMob-Rush Attack:30;C1TonpaMobPrefab (4)-AttackHitbox:10;C1PistolMobForDashTutorial-AttackHitbox:10"
+"C1_Stage2_4","",21.49,24,0,223.20,10.03,22.2457,5,1,113.00,1.67,67.8017,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Shotgun,to:Shotgun};{order:2,from:Staff,to:Staff}",10.00,4,2,3,3,0,"Hinge-Hitbox:10"
+"C1_Stage2_5","",34.40,21,0,372.70,9.47,39.3697,9,2,176.00,5.53,31.8073,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Shotgun,to:Shotgun};{order:2,from:Staff,to:Staff};{order:3,from:Shotgun,to:Shotgun}",10.00,7,5,5,3,0,"C1TonpaMobPrefab (10)-AttackHitbox:10"
