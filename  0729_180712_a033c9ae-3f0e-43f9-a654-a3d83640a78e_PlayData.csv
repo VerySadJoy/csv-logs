@@ -1,0 +1,10 @@
+SerialNumber,ECDF1CDE-3FF2-5F21-BAF1-9543126C3BB0
+TotalPlayTime,524.25
+TotalDeathCount,0
+TotalKilledEnemies,23
+TotalClearedBosses,0
+
+SegmentNumber,EquippedModules,PlayTime,Staff_AttackCount,Staff_SpecialAttackCount,Staff_TotalDamage,Staff_Time,Staff_DPS,Shotgun_AttackCount,Shotgun_SpecialAttackCount,Shotgun_TotalDamage,Shotgun_Time,Shotgun_DPS,Hammer_AttackCount,Hammer_SpecialAttackCount,Hammer_TotalDamage,Hammer_Time,Hammer_DPS,Sword_AttackCount,Sword_SpecialAttackCount,Sword_TotalDamage,Sword_Time,Sword_DPS,Spear_AttackCount,Spear_SpecialAttackCount,Spear_TotalDamage,Spear_Time,Spear_DPS,WeaponSwitches,DamageReceivedByEnemy,DashCount,SlideDashCount,JumpCount,DodgeCount,DeathCount,EnemyPatternHitLogs
+"C1_Stage1_1","",98.30,91,0,0.00,27.37,0.0000,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",20.00,15,14,0,11,0,"C1MidBoss-TangTang 1:20"
+"C1_Stage2_1","",80.94,32,0,691.00,11.42,60.5256,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",30.00,9,3,9,4,0,"C1TonpaMobPrefab (2)-AttackHitbox:10;C1PistolMobForDashTutorial-AttackHitbox:20"
+"C1_Stage2_2","",68.19,26,1,162.54,9.12,17.8289,18,1,141.50,9.73,14.5376,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Shotgun,to:Shotgun};{order:2,from:Staff,to:Staff};{order:3,from:Shotgun,to:Shotgun};{order:4,from:Staff,to:Staff}",30.00,6,3,4,3,0,"Stranger (tutorial boss)-Rush Attack:20;Stranger (tutorial boss)-Attack:10"
