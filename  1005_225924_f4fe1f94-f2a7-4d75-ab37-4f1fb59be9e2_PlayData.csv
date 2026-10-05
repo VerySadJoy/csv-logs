@@ -1,0 +1,12 @@
+SerialNumber,1f7a8f0bf67075fad1965a364d18dd8bba389d81
+TotalPlayTime,1123.45
+TotalDeathCount,1
+TotalKilledEnemies,41
+TotalClearedBosses,0
+
+SegmentNumber,EquippedModules,PlayTime,Staff_AttackCount,Staff_SpecialAttackCount,Staff_TotalDamage,Staff_Time,Staff_DPS,Shotgun_AttackCount,Shotgun_SpecialAttackCount,Shotgun_TotalDamage,Shotgun_Time,Shotgun_DPS,Hammer_AttackCount,Hammer_SpecialAttackCount,Hammer_TotalDamage,Hammer_Time,Hammer_DPS,Sword_AttackCount,Sword_SpecialAttackCount,Sword_TotalDamage,Sword_Time,Sword_DPS,Spear_AttackCount,Spear_SpecialAttackCount,Spear_TotalDamage,Spear_Time,Spear_DPS,WeaponSwitches,DamageReceivedByEnemy,DashCount,SlideDashCount,JumpCount,DodgeCount,DeathCount,EnemyPatternHitLogs
+"C1_Stage1_1","",244.33,147,0,0.00,59.92,0.0000,0,0,0.00,0.00,非數值,0,0,0.00,0.00,非數值,0,0,0.00,0.00,非數值,0,0,0.00,0.00,非數值,"",130.00,17,0,54,0,0,"C1MidBoss-TangTang 1:50;C1MidBoss-TangTang 2:30;C1MidBoss-RushKick:50"
+"C1_Stage2_1","",139.29,104,0,1287.00,38.15,33.7356,0,0,0.00,0.00,非數值,0,0,0.00,0.00,非數值,0,0,0.00,0.00,非數值,0,0,0.00,0.00,非數值,"",110.00,23,11,15,3,1,"C1TonpaMobPrefab-AttackHitbox:10;C1PistolMobForDashTutorial-AttackHitbox:40;C1PistolMobForDashTutorial (1)-AttackHitbox:50;C1TonpaMobPrefab (4)-AttackHitbox:10"
+"C1_Stage2_2","",178.78,24,1,222.34,9.88,22.4965,42,2,93.90,40.52,2.3176,0,0,0.00,0.00,非數值,0,0,0.00,0.00,非數值,0,0,0.00,0.00,非數值,"{order:1,from:Shotgun,to:Shotgun};{order:2,from:Staff,to:Staff};{order:3,from:Shotgun,to:Shotgun};{order:4,from:Staff,to:Staff};{order:5,from:Shotgun,to:Shotgun}",40.00,20,10,2,3,0,"C1EliteTonpaMobForDashTutorial-Rush Attack:40"
+"C1_Stage2_3","",213.96,14,0,81.40,8.35,9.7482,65,4,961.30,64.88,14.8160,0,0,0.00,0.00,非數值,0,0,0.00,0.00,非數值,0,0,0.00,0.00,非數值,"{order:1,from:Staff,to:Staff};{order:2,from:Shotgun,to:Shotgun};{order:3,from:Staff,to:Staff};{order:4,from:Shotgun,to:Shotgun};{order:5,from:Staff,to:Staff};{order:6,from:Shotgun,to:Shotgun};{order:7,from:Staff,to:Staff};{order:8,from:Shotgun,to:Shotgun}",90.00,40,25,7,7,0,"C1EliteTonpaMobForDashTutorial-Rush Attack:30;C1EliteTonpaMobForDashTutorial (1)-Attack:10;C1GunnerMobPrefab-RangedAttackHitbox:10;C1EliteTonpaMobForDashTutorial-Attack:10;C1PistolMobForDashTutorial-AttackHitbox:10;C1TonpaMobPrefab (1)-AttackHitbox:20"
+"C1_Stage2_4","",6.39,0,0,0.00,0.00,非數值,0,0,0.00,0.00,非數值,0,0,0.00,0.00,非數值,0,0,0.00,0.00,非數值,0,0,0.00,0.00,非數值,"",0.00,0,0,0,0,0,""
