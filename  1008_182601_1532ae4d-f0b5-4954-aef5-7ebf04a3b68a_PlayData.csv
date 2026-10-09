@@ -1,0 +1,10 @@
+SerialNumber,a093447ec4971ced57be73100d0039dafeba8763
+TotalPlayTime,619.51
+TotalDeathCount,0
+TotalKilledEnemies,17
+TotalClearedBosses,0
+
+SegmentNumber,EquippedModules,PlayTime,Staff_AttackCount,Staff_SpecialAttackCount,Staff_TotalDamage,Staff_Time,Staff_DPS,Shotgun_AttackCount,Shotgun_SpecialAttackCount,Shotgun_TotalDamage,Shotgun_Time,Shotgun_DPS,Hammer_AttackCount,Hammer_SpecialAttackCount,Hammer_TotalDamage,Hammer_Time,Hammer_DPS,Sword_AttackCount,Sword_SpecialAttackCount,Sword_TotalDamage,Sword_Time,Sword_DPS,Spear_AttackCount,Spear_SpecialAttackCount,Spear_TotalDamage,Spear_Time,Spear_DPS,WeaponSwitches,DamageReceivedByEnemy,DashCount,SlideDashCount,JumpCount,DodgeCount,DeathCount,EnemyPatternHitLogs
+"C1_Stage1_1","",102.11,106,0,0.00,29.27,0.0000,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",10.00,18,13,0,10,0,"C1MidBoss-RushKick:10"
+"C1_Stage2_1","",42.51,41,0,685.00,11.85,57.8057,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"",10.00,7,2,30,2,0,"C1PistolMobForDashTutorial-AttackHitbox:10"
+"C1_Stage2_2","",55.34,26,0,89.60,8.65,10.3583,29,2,222.25,20.82,10.6767,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,"{order:1,from:Shotgun,to:Shotgun};{order:2,from:Staff,to:Staff};{order:3,from:Shotgun,to:Shotgun};{order:4,from:Staff,to:Staff};{order:5,from:Shotgun,to:Shotgun};{order:6,from:Staff,to:Staff};{order:7,from:Shotgun,to:Shotgun};{order:8,from:Staff,to:Staff};{order:9,from:Shotgun,to:Shotgun}",10.00,10,3,7,1,0,"C1EliteTonpaMobForDashTutorial-Rush Attack:10"
