@@ -1,0 +1,12 @@
+SerialNumber,18d3445d650b19f59696a45314af53a154fb529d
+TotalPlayTime,2635,74
+TotalDeathCount,2
+TotalKilledEnemies,32
+TotalClearedBosses,0
+
+SegmentNumber,EquippedModules,PlayTime,Staff_AttackCount,Staff_SpecialAttackCount,Staff_TotalDamage,Staff_Time,Staff_DPS,Shotgun_AttackCount,Shotgun_SpecialAttackCount,Shotgun_TotalDamage,Shotgun_Time,Shotgun_DPS,Hammer_AttackCount,Hammer_SpecialAttackCount,Hammer_TotalDamage,Hammer_Time,Hammer_DPS,Sword_AttackCount,Sword_SpecialAttackCount,Sword_TotalDamage,Sword_Time,Sword_DPS,Spear_AttackCount,Spear_SpecialAttackCount,Spear_TotalDamage,Spear_Time,Spear_DPS,WeaponSwitches,DamageReceivedByEnemy,DashCount,SlideDashCount,JumpCount,DodgeCount,DeathCount,EnemyPatternHitLogs
+"C1_Stage1_1","",199,30,129,0,0,00,39,82,0,0000,0,0,0,00,0,00,NaN,0,0,0,00,0,00,NaN,0,0,0,00,0,00,NaN,0,0,0,00,0,00,NaN,"",50,00,24,13,3,8,0,"C1MidBoss-TangTang 1:20;C1MidBoss-TangTang 2:20;C1MidBoss-RushKick:10"
+"C1_Stage2_1","",53,50,53,0,700,00,15,22,46,0018,0,0,0,00,0,00,NaN,0,0,0,00,0,00,NaN,0,0,0,00,0,00,NaN,0,0,0,00,0,00,NaN,"",20,00,9,3,2,2,0,"C1PistolMobForDashTutorial-AttackHitbox:10;C1PistolMobForDashTutorial (1)-AttackHitbox:10"
+"C1_Stage2_2","",209,89,35,0,4,22,14,05,0,3004,73,5,526,60,63,65,8,2733,0,0,0,00,0,00,NaN,0,0,0,00,0,00,NaN,0,0,0,00,0,00,NaN,"{order:1,from:Shotgun,to:Shotgun};{order:2,from:Staff,to:Staff};{order:3,from:Shotgun,to:Shotgun};{order:4,from:Shotgun,to:Shotgun}",120,00,16,5,8,3,1,"C1EliteTonpaMobForDashTutorial-Attack:50;C1EliteTonpaMobForDashTutorial-Rush Attack:70"
+"C1_Stage2_3","",38,71,0,0,0,00,0,00,NaN,20,1,281,00,15,00,18,7333,0,0,0,00,0,00,NaN,0,0,0,00,0,00,NaN,0,0,0,00,0,00,NaN,"",40,00,2,2,4,1,0,"C1TonpaMobPrefab (2)-AttackHitbox:10;C1TonpaMobPrefab (4)-AttackHitbox:20;C1EliteTonpaMobForDashTutorial (1)-Rush Attack:10"
+"C1_Stage3_1","",194,97,106,0,0,00,31,28,0,0000,11,0,0,00,6,85,0,0000,0,0,0,00,0,00,NaN,0,0,0,00,0,00,NaN,0,0,0,00,0,00,NaN,"{order:1,from:Staff,to:Staff};{order:2,from:Staff,to:Staff}",110,00,30,18,1,10,1,"C1MidBoss-TangTang 1:30;C1MidBoss-Taaang:10;C1MidBoss-KickKick 1:40;C1MidBoss-Room Center TangTang 1:10;C1MidBoss-RushKick:10;C1MidBoss-KickKick 2:10"
