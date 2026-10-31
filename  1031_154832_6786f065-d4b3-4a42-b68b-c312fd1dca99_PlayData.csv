@@ -1,0 +1,8 @@
+SerialNumber,be7c2dedf74998e526268239d039891e3df48ff1
+TotalPlayTime,95.17
+TotalDeathCount,2
+TotalKilledEnemies,0
+TotalClearedBosses,0
+
+SegmentNumber,EquippedModules,PlayTime,Staff_AttackCount,Staff_SpecialAttackCount,Staff_TotalDamage,Staff_Time,Staff_DPS,Shotgun_AttackCount,Shotgun_SpecialAttackCount,Shotgun_TotalDamage,Shotgun_Time,Shotgun_DPS,Hammer_AttackCount,Hammer_SpecialAttackCount,Hammer_TotalDamage,Hammer_Time,Hammer_DPS,Sword_AttackCount,Sword_SpecialAttackCount,Sword_TotalDamage,Sword_Time,Sword_DPS,Spear_AttackCount,Spear_SpecialAttackCount,Spear_TotalDamage,Spear_Time,Spear_DPS,WeaponSwitches,DamageReceivedByEnemy,DashCount,SlideDashCount,JumpCount,DodgeCount,DeathCount,EnemyPatternHitLogs
+"C2_Boss_1","",95.17,90,0,1091.00,27.98,38.9877,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,7,1,147.50,1.50,98.3333,"{order:1,from:Spear,to:Spear};{order:2,from:Staff,to:Staff}",20.00,25,21,0,13,2,"C2Boss-Jumpshot:10;C2Boss-Kickshot-Kick:10"
