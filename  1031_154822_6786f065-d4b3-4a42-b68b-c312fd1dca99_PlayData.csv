@@ -1,0 +1,8 @@
+SerialNumber,be7c2dedf74998e526268239d039891e3df48ff1
+TotalPlayTime,285.52
+TotalDeathCount,2
+TotalKilledEnemies,0
+TotalClearedBosses,1
+
+SegmentNumber,EquippedModules,PlayTime,Staff_AttackCount,Staff_SpecialAttackCount,Staff_TotalDamage,Staff_Time,Staff_DPS,Shotgun_AttackCount,Shotgun_SpecialAttackCount,Shotgun_TotalDamage,Shotgun_Time,Shotgun_DPS,Hammer_AttackCount,Hammer_SpecialAttackCount,Hammer_TotalDamage,Hammer_Time,Hammer_DPS,Sword_AttackCount,Sword_SpecialAttackCount,Sword_TotalDamage,Sword_Time,Sword_DPS,Spear_AttackCount,Spear_SpecialAttackCount,Spear_TotalDamage,Spear_Time,Spear_DPS,WeaponSwitches,DamageReceivedByEnemy,DashCount,SlideDashCount,JumpCount,DodgeCount,DeathCount,EnemyPatternHitLogs
+"C2_Boss_1","",285.52,184,0,2152.00,53.29,40.3866,16,0,341.00,9.01,37.8409,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,17,3,352.50,3.73,94.5022,"{order:1,from:Spear,to:Spear};{order:2,from:Staff,to:Staff};{order:3,from:Shotgun,to:Shotgun};{order:4,from:Staff,to:Staff};{order:5,from:Spear,to:Spear};{order:6,from:Staff,to:Staff};{order:7,from:Shotgun,to:Shotgun};{order:8,from:Staff,to:Staff};{order:9,from:Shotgun,to:Shotgun};{order:10,from:Staff,to:Staff};{order:11,from:Shotgun,to:Shotgun};{order:12,from:Staff,to:Staff};{order:13,from:Shotgun,to:Shotgun};{order:14,from:Spear,to:Spear};{order:15,from:Shotgun,to:Shotgun}",20.00,50,41,0,27,2,"C2Boss-Jumpshot:10;C2Boss-Kickshot-Kick:10"
