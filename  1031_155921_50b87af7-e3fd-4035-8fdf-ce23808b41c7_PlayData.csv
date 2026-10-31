@@ -1,0 +1,9 @@
+SerialNumber,be7c2dedf74998e526268239d039891e3df48ff1
+TotalPlayTime,106.62
+TotalDeathCount,2
+TotalKilledEnemies,8
+TotalClearedBosses,0
+
+SegmentNumber,EquippedModules,PlayTime,Staff_AttackCount,Staff_SpecialAttackCount,Staff_TotalDamage,Staff_Time,Staff_DPS,Shotgun_AttackCount,Shotgun_SpecialAttackCount,Shotgun_TotalDamage,Shotgun_Time,Shotgun_DPS,Hammer_AttackCount,Hammer_SpecialAttackCount,Hammer_TotalDamage,Hammer_Time,Hammer_DPS,Sword_AttackCount,Sword_SpecialAttackCount,Sword_TotalDamage,Sword_Time,Sword_DPS,Spear_AttackCount,Spear_SpecialAttackCount,Spear_TotalDamage,Spear_Time,Spear_DPS,WeaponSwitches,DamageReceivedByEnemy,DashCount,SlideDashCount,JumpCount,DodgeCount,DeathCount,EnemyPatternHitLogs
+"C2_Stage2_1","",78.31,5,0,0.00,4.05,0.0000,8,1,0.00,4.78,0.0000,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,13,4,0.00,7.47,0.0000,"{order:1,from:Spear,to:Spear};{order:2,from:Spear,to:Spear};{order:3,from:Shotgun,to:Shotgun};{order:4,from:Staff,to:Staff};{order:5,from:Shotgun,to:Shotgun};{order:6,from:Spear,to:Spear};{order:7,from:Shotgun,to:Shotgun};{order:8,from:Staff,to:Staff};{order:9,from:Spear,to:Spear};{order:10,from:Shotgun,to:Shotgun};{order:11,from:Staff,to:Staff}",10.00,15,5,2,7,1,"C2ElecWhipmanPrefab-AttackHitBox:10"
+"C2_Stage2_2","",28.32,6,0,0.00,2.55,0.0000,0,0,0.00,0.67,0.0000,0,0,0.00,0.00,NaN,0,0,0.00,0.00,NaN,6,1,0.00,3.58,0.0000,"{order:1,from:Spear,to:Spear};{order:2,from:Shotgun,to:Shotgun}",10.00,7,4,3,6,1,"C2TonpaManPrefab-MeleeAttackHitbox:10"
