@@ -1,0 +1,8 @@
+SerialNumber,5d67250467daac19eaa4af513d47a10013fface0
+TotalPlayTime,1247,68
+TotalDeathCount,1
+TotalKilledEnemies,13
+TotalClearedBosses,0
+
+SegmentNumber,EquippedModules,PlayTime,Staff_AttackCount,Staff_SpecialAttackCount,Staff_TotalDamage,Staff_Time,Staff_DPS,Shotgun_AttackCount,Shotgun_SpecialAttackCount,Shotgun_TotalDamage,Shotgun_Time,Shotgun_DPS,Hammer_AttackCount,Hammer_SpecialAttackCount,Hammer_TotalDamage,Hammer_Time,Hammer_DPS,Sword_AttackCount,Sword_SpecialAttackCount,Sword_TotalDamage,Sword_Time,Sword_DPS,Spear_AttackCount,Spear_SpecialAttackCount,Spear_TotalDamage,Spear_Time,Spear_DPS,WeaponSwitches,DamageReceivedByEnemy,DashCount,SlideDashCount,JumpCount,DodgeCount,DeathCount,EnemyPatternHitLogs
+"C1_Stage1_1","",162,17,230,0,0,00,66,70,0,0000,0,0,0,00,0,00,NaN,0,0,0,00,0,00,NaN,0,0,0,00,0,00,NaN,0,0,0,00,0,00,NaN,"",170,00,20,19,38,11,1,"C1MidBoss-TangTang 1:30;C1MidBoss-RushKick:80;C1MidBoss-TangTang 2:60"
